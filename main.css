@@ -1,44 +1,89 @@
 @font-face {
 	font-family: adlibitum;
-	src: url('cool_font.ttf');
+	src: url('artifacts/adlibitum.bold.ttf');
+}
+
+@font-face {
+	font-family: mono;
+	src: url('artifacts/A2 Record Gothic Mono.otf');
+}
+
+h1 {
+	 font-family: adlibitum;
+}
+
+p {
+	font-family: mono;
 }
 
 body {
     background-color: #4400FF;
-    height: 100vh;
+    height: 140vh;
     position: relative;
 }
 
 body .container {
     position: absolute;
-    top: 40%;
+    top: 50%;
     left: 50%;
-    transform: translate(-40%, -50%);
+    transform: translate(-50%, -50%);
     padding: 10px;
 
 }
 
 body .container .title {
-    color: #FFFFFF;
-    text-align: center;
-}
-
-body .container .info {
-    color: #FFFFFF;
-    text-align: center;
-}
-
-body .container .call {
     color: #FDDD00;
     text-align: center;
 }
 
-body .container .specifics {
+
+body .container .p1 {
+    color: #FFFFFF;
+    text-align: center;
+}
+
+body .container .p2 {
+    color: #FFFFFF;
+    text-align: center;
+}
+
+body .container .p3 {
+    color: #FFFFFF;
+    text-align: center;
+}
+
+body .container .p4 {
+    color: #FFFFFF;
+    text-align: center;
+}
+
+body .container .p5 {
+    color: #FFFFFF;
+    text-align: center;
+}
+
+body .container .p6 {
+    color: #FFFFFF;
+    text-align: center;
+}
+
+body .container .p7 {
     color: #FFFFFF;
     text-align: center;
 }
 
 body .container .submit {
-    color: #FDDD00;
+    color: #FFFFFF;
     text-align: center;
 }
+
+#triangle {
+ 		position:fixed;
+	 	left:0px;
+	 	bottom:0px;
+		width: 5%;
+}
+
+/* .triangle img {
+		s
+} */
