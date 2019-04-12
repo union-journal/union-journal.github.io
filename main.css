@@ -52,8 +52,14 @@ body .container .title #union{
 	padding-bottom: 0px;
 }
 
-body. .container .title #number {
-
+body .container .title #number {
+	position: absolute;
+	top: 19%;
+	left: 73%;
+	color: #FDDD00;
+	width: 20px;
+	text-align: left;
+	font-size: 16px;
 }
 
 body .container .p1 {
