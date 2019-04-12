@@ -101,13 +101,18 @@ body .container .p7 {
   text-align: center;
 }
 
+body .container .p8 {
+  color: #FFFFFF;
+  text-align: center;
+}
+
 body .container #link {
   text-align: center;
 }
 
 #triangle {
-		position:fixed;
- 	left:0px;
- 	bottom:0px;
+	position: fixed;
+ 	left: 0px;
+ 	bottom: 0px;
 	width: 9%;
 }
