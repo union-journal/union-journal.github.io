@@ -8,82 +8,100 @@
 	src: url('artifacts/A2 Record Gothic Mono.otf');
 }
 
+@font-face {
+	font-family: timesNow;
+	src: url('artifacts/Times Now Bold.otf');
+}
+
 h1 {
 	 font-family: adlibitum;
+}
+
+h2 {
+	font-family: timesNow;
 }
 
 p {
 	font-family: mono;
 }
 
+a {
+	font-family: mono;
+	color: #FFFFFF;
+}
+
 body {
-    background-color: #4400FF;
-    height: 140vh;
-    position: relative;
+  background-color: #4400FF;
+  height: 100vh;
+  position: relative;
 }
 
 body .container {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    padding: 10px;
-
+  position: absolute;
+	width: 500px;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 10px;
 }
 
-body .container .title {
-    color: #FDDD00;
-    text-align: center;
+body .container .title #union{
+  color: #FDDD00;
+  text-align: center;
+	font-size:  80px;
+	padding-bottom: 0px;
 }
 
+body. .container .title #number {
+
+}
 
 body .container .p1 {
-    color: #FFFFFF;
-    text-align: center;
+	font-size: 20px;
+	margin-top: -120px;
+	margin-bottom: 40px;
+	position: relative;
+  color: #FFFFFF;
+  text-align: center;
 }
 
 body .container .p2 {
-    color: #FFFFFF;
-    text-align: center;
+  color: #FFFFFF;
+  text-align: center;
 }
 
 body .container .p3 {
-    color: #FFFFFF;
-    text-align: center;
+  color: #FFFFFF;
+  text-align: center;
 }
 
 body .container .p4 {
-    color: #FFFFFF;
-    text-align: center;
+  color: #FFFFFF;
+  text-align: center;
 }
 
 body .container .p5 {
-    color: #FFFFFF;
-    text-align: center;
+  color: #FFFFFF;
+  text-align: center;
 }
 
 body .container .p6 {
-    color: #FFFFFF;
-    text-align: center;
+  color: #FFFFFF;
+  text-align: center;
 }
 
 body .container .p7 {
-    color: #FFFFFF;
-    text-align: center;
+  color: #FFFFFF;
+  text-align: center;
 }
 
-body .container .submit {
-    color: #FFFFFF;
-    text-align: center;
+body .container #link {
+  text-align: center;
 }
 
 #triangle {
- 		position:fixed;
-	 	left:0px;
-	 	bottom:0px;
-		width: 5%;
+		position:fixed;
+ 	left:0px;
+ 	bottom:0px;
+	width: 9%;
 }
-
-/* .triangle img {
-		s
-} */
