@@ -59,6 +59,7 @@ and (max-device-width: 700px) {
 	  background-color: #4400FF;
 	  height: 75vh;
 	  position: relative;
+		margin-bottom: 10px;
 	}
 
 	body .container {
@@ -120,7 +121,7 @@ and (max-device-width: 700px) {
 	}
 
 	#footer > div.row {
-     margin-bottom: -20px;
+     margin-bottom: 0px;
   }
 }
 
