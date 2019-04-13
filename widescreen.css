@@ -24,14 +24,20 @@ and (min-device-width: 320px)
 and (max-device-width: 700px) {
 	h1 {
 		 font-family: adlibitum;
+		 -webkit-font-smoothing: antialiased;
+		 -moz-osx-font-smoothing: grayscale;
 	}
 
 	h2 {
 		font-family: timesNow;
+		-webkit-font-smoothing: antialiased;
+		-moz-osx-font-smoothing: grayscale;
 	}
 
 	h3 {
 		font-family: agentur;
+		-webkit-font-smoothing: antialiased;
+		-moz-osx-font-smoothing: grayscale;
 	}
 
 	html, body {
@@ -42,6 +48,8 @@ and (max-device-width: 700px) {
 		font-family: mono;
 		color: #FFFFFF;
 		margin-bottom: 15px;
+		-webkit-font-smoothing: antialiased;
+		-moz-osx-font-smoothing: grayscale;
 	}
 
 	a {
@@ -130,14 +138,20 @@ and (max-device-width: 700px) {
 and (min-device-width: 800px) {
 	h1 {
 		 font-family: adlibitum;
+		 -webkit-font-smoothing: antialiased;
+		 -moz-osx-font-smoothing: grayscale;
 	}
 
 	h2 {
 		font-family: timesNow;
+		-webkit-font-smoothing: antialiased;
+		-moz-osx-font-smoothing: grayscale;
 	}
 
 	h3 {
 		font-family: agentur;
+		-webkit-font-smoothing: antialiased;
+		-moz-osx-font-smoothing: grayscale;
 	}
 
 	html, body {
@@ -148,6 +162,8 @@ and (min-device-width: 800px) {
 		font-family: mono;
 		color: #FFFFFF;
 		margin-bottom: 15px;
+		-webkit-font-smoothing: antialiased;
+		-moz-osx-font-smoothing: grayscale;
 	}
 
 	a {
