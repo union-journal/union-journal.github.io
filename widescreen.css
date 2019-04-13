@@ -118,6 +118,10 @@ and (max-device-width: 700px) {
 	 	bottom: 0px;
 		width: 20%;
 	}
+
+	#footer > div.row {
+     margin-bottom: -20px;
+  }
 }
 
 /* for desktop */
