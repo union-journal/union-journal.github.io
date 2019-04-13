@@ -18,6 +18,7 @@
 	src: url('artifacts/Agentur-Regular.otf');
 }
 
+/* for mobile */
 @media only screen
 and (min-device-width: 320px)
 and (max-device-width: 700px) {
@@ -34,7 +35,6 @@ and (max-device-width: 700px) {
 	}
 
 	html, body {
-	  height: 100%;
 	  overflow: hidden;
 	}
 
@@ -57,7 +57,7 @@ and (max-device-width: 700px) {
 
 	body {
 	  background-color: #4400FF;
-	  height: 100vh;
+	  height: 75vh;
 	  position: relative;
 	}
 
@@ -118,10 +118,9 @@ and (max-device-width: 700px) {
 	 	bottom: 0px;
 		width: 20%;
 	}
-
-
 }
 
+/* for desktop */
 @media only screen
 and (min-device-width: 800px) {
 	h1 {
@@ -137,7 +136,6 @@ and (min-device-width: 800px) {
 	}
 
 	html, body {
-	  height: 100%;
 	  overflow: hidden;
 	}
 
