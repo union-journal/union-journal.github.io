@@ -1,0 +1,117 @@
+@font-face {
+	font-family: adlibitum;
+	src: url('artifacts/adlibitum.bold.ttf');
+}
+
+@font-face {
+	font-family: mono;
+	src: url('artifacts/A2 Record Gothic Mono.otf');
+}
+
+@font-face {
+	font-family: timesNow;
+	src: url('artifacts/Times Now Bold.otf');
+}
+
+@font-face {
+	font-family: agentur;
+	src: url('artifacts/Agentur-Regular.otf');
+}
+
+h1 {
+	 font-family: adlibitum;
+}
+
+h2 {
+	font-family: timesNow;
+}
+
+h3 {
+	font-family: agentur;
+}
+
+html, body {
+  height: 100%;
+  overflow: hidden;
+}
+
+p {
+	font-family: mono;
+	color: #FFFFFF;
+	margin-bottom: 15px;
+}
+
+a {
+	font-family: mono;
+	color: #FFFFFF;
+	text-decoration: none;
+  border-bottom: 2px solid #FFFFFF;
+}
+
+#link a:hover {
+  opacity: 0.75;
+}
+
+body {
+  background-color: #4400FF;
+  height: 100vh;
+  position: relative;
+}
+
+body .container {
+  position: absolute;
+	width: 600px;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 10px;
+}
+
+body .container .title #sand {
+	position: absolute;
+	color: #FFFFFF;
+	top: 28%;
+	width: 600px;
+	padding-top: -3px;
+	text-align: center;
+	font-size: 44px;
+}
+
+body .container .title #union{
+  color: #FDDD00;
+  text-align: center;
+	font-size:  94px;
+	padding-bottom: 0px;
+}
+
+body .container .title #number {
+	position: absolute;
+	top: 19%;
+	left: 80%;
+	color: #FDDD00;
+	width: 20px;
+	text-align: left;
+	font-size: 12px;
+}
+
+body .container .p1 {
+	font-size: 15px;
+	padding-top: 40px;
+	margin-top: -130px;
+	margin-bottom: 40px;
+	position: relative;
+  color: #FFFFFF;
+  text-align: center;
+}
+
+body .container #link {
+  text-align: center;
+	margin-bottom: 10px;
+}
+
+#triangle {
+	position: fixed;
+ 	left: 0px;
+ 	bottom: 0px;
+	width: 7%;
+}
