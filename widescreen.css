@@ -224,13 +224,15 @@ and (min-device-width: 800px) {
 		font-size: 15px;
 		padding-top: 40px;
 		margin-top: -130px;
-		margin-bottom: 40px;
+		margin-bottom: 20px;
 		position: relative;
 	  color: #FFFFFF;
 	  text-align: center;
 	}
 
 	body .container #link {
+		/* position: absolute;
+		margin-top: -130px; */
 	  text-align: center;
 		margin-bottom: 10px;
 	}
