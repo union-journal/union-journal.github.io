@@ -1,0 +1,1569 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 300 300" style="enable-background:new 0 0 300 300;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:url(#SVGID_2_);}
+	.st2{fill:url(#SVGID_3_);}
+	.st3{fill:url(#SVGID_4_);}
+	.st4{fill:url(#SVGID_5_);}
+	.st5{fill:url(#SVGID_6_);}
+	.st6{fill:url(#SVGID_7_);}
+	.st7{clip-path:url(#SVGID_9_);}
+	.st8{clip-path:url(#SVGID_9_);fill:#000200;}
+	.st9{clip-path:url(#SVGID_9_);fill:#000301;}
+	.st10{clip-path:url(#SVGID_9_);fill:#000501;}
+	.st11{clip-path:url(#SVGID_9_);fill:#000701;}
+	.st12{clip-path:url(#SVGID_9_);fill:#000802;}
+	.st13{clip-path:url(#SVGID_9_);fill:#000A02;}
+	.st14{clip-path:url(#SVGID_9_);fill:#000B02;}
+	.st15{clip-path:url(#SVGID_9_);fill:#000D03;}
+	.st16{clip-path:url(#SVGID_9_);fill:#000F03;}
+	.st17{clip-path:url(#SVGID_9_);fill:#001003;}
+	.st18{clip-path:url(#SVGID_9_);fill:#001204;}
+	.st19{clip-path:url(#SVGID_9_);fill:#001304;}
+	.st20{clip-path:url(#SVGID_9_);fill:#001504;}
+	.st21{clip-path:url(#SVGID_9_);fill:#001705;}
+	.st22{clip-path:url(#SVGID_9_);fill:#001805;}
+	.st23{clip-path:url(#SVGID_9_);fill:#001A05;}
+	.st24{clip-path:url(#SVGID_9_);fill:#001B06;}
+	.st25{clip-path:url(#SVGID_9_);fill:#001D06;}
+	.st26{clip-path:url(#SVGID_9_);fill:#001E06;}
+	.st27{clip-path:url(#SVGID_9_);fill:#002007;}
+	.st28{clip-path:url(#SVGID_9_);fill:#002107;}
+	.st29{clip-path:url(#SVGID_9_);fill:#002307;}
+	.st30{clip-path:url(#SVGID_9_);fill:#002407;}
+	.st31{clip-path:url(#SVGID_9_);fill:#002608;}
+	.st32{clip-path:url(#SVGID_9_);fill:#002708;}
+	.st33{clip-path:url(#SVGID_9_);fill:#002908;}
+	.st34{clip-path:url(#SVGID_9_);fill:#002A09;}
+	.st35{clip-path:url(#SVGID_9_);fill:#002C09;}
+	.st36{clip-path:url(#SVGID_9_);fill:#002D09;}
+	.st37{clip-path:url(#SVGID_9_);fill:#002F0A;}
+	.st38{clip-path:url(#SVGID_9_);fill:#00300A;}
+	.st39{clip-path:url(#SVGID_9_);fill:#00320A;}
+	.st40{clip-path:url(#SVGID_9_);fill:#00330B;}
+	.st41{clip-path:url(#SVGID_9_);fill:#00340B;}
+	.st42{clip-path:url(#SVGID_9_);fill:#00360B;}
+	.st43{clip-path:url(#SVGID_9_);fill:#00370B;}
+	.st44{clip-path:url(#SVGID_9_);fill:#00390C;}
+	.st45{clip-path:url(#SVGID_9_);fill:#003A0C;}
+	.st46{clip-path:url(#SVGID_9_);fill:#003B0C;}
+	.st47{clip-path:url(#SVGID_9_);fill:#003D0D;}
+	.st48{clip-path:url(#SVGID_9_);fill:#003E0D;}
+	.st49{clip-path:url(#SVGID_9_);fill:#00400D;}
+	.st50{clip-path:url(#SVGID_9_);fill:#00410D;}
+	.st51{clip-path:url(#SVGID_9_);fill:#00420E;}
+	.st52{clip-path:url(#SVGID_9_);fill:#00440E;}
+	.st53{clip-path:url(#SVGID_9_);fill:#00450E;}
+	.st54{clip-path:url(#SVGID_9_);fill:#00460E;}
+	.st55{clip-path:url(#SVGID_9_);fill:#00480F;}
+	.st56{clip-path:url(#SVGID_9_);fill:#00490F;}
+	.st57{clip-path:url(#SVGID_9_);fill:#004A0F;}
+	.st58{clip-path:url(#SVGID_9_);fill:#004C10;}
+	.st59{clip-path:url(#SVGID_9_);fill:#004D10;}
+	.st60{clip-path:url(#SVGID_9_);fill:#004E10;}
+	.st61{clip-path:url(#SVGID_9_);fill:#004F10;}
+	.st62{clip-path:url(#SVGID_9_);fill:#005111;}
+	.st63{clip-path:url(#SVGID_9_);fill:#005211;}
+	.st64{clip-path:url(#SVGID_9_);fill:#005311;}
+	.st65{clip-path:url(#SVGID_9_);fill:#005511;}
+	.st66{clip-path:url(#SVGID_9_);fill:#005612;}
+	.st67{clip-path:url(#SVGID_9_);fill:#005712;}
+	.st68{clip-path:url(#SVGID_9_);fill:#005812;}
+	.st69{clip-path:url(#SVGID_9_);fill:#005912;}
+	.st70{clip-path:url(#SVGID_9_);fill:#005B13;}
+	.st71{clip-path:url(#SVGID_9_);fill:#005C13;}
+	.st72{clip-path:url(#SVGID_9_);fill:#005D13;}
+	.st73{clip-path:url(#SVGID_9_);fill:#005E13;}
+	.st74{clip-path:url(#SVGID_9_);fill:#005F14;}
+	.st75{clip-path:url(#SVGID_9_);fill:#006114;}
+	.st76{clip-path:url(#SVGID_9_);fill:#006214;}
+	.st77{clip-path:url(#SVGID_9_);fill:#006314;}
+	.st78{clip-path:url(#SVGID_9_);fill:#006415;}
+	.st79{clip-path:url(#SVGID_9_);fill:#006515;}
+	.st80{clip-path:url(#SVGID_9_);fill:#006615;}
+	.st81{clip-path:url(#SVGID_9_);fill:#006815;}
+	.st82{clip-path:url(#SVGID_9_);fill:#006916;}
+	.st83{clip-path:url(#SVGID_9_);fill:#006A16;}
+	.st84{clip-path:url(#SVGID_9_);fill:#006B16;}
+	.st85{clip-path:url(#SVGID_9_);fill:#006C16;}
+	.st86{clip-path:url(#SVGID_9_);fill:#006D16;}
+	.st87{clip-path:url(#SVGID_9_);fill:#006E17;}
+	.st88{clip-path:url(#SVGID_9_);fill:#006F17;}
+	.st89{clip-path:url(#SVGID_9_);fill:#007017;}
+	.st90{clip-path:url(#SVGID_9_);fill:#007117;}
+	.st91{clip-path:url(#SVGID_9_);fill:#007218;}
+	.st92{clip-path:url(#SVGID_9_);fill:#007318;}
+	.st93{clip-path:url(#SVGID_9_);fill:#007418;}
+	.st94{clip-path:url(#SVGID_9_);fill:#007518;}
+	.st95{clip-path:url(#SVGID_9_);fill:#007618;}
+	.st96{clip-path:url(#SVGID_9_);fill:#007719;}
+	.st97{clip-path:url(#SVGID_9_);fill:#007819;}
+	.st98{clip-path:url(#SVGID_9_);fill:#007919;}
+	.st99{clip-path:url(#SVGID_9_);fill:#007A19;}
+	.st100{clip-path:url(#SVGID_9_);fill:#007B19;}
+	.st101{clip-path:url(#SVGID_9_);fill:#007C1A;}
+	.st102{clip-path:url(#SVGID_9_);fill:#007D1A;}
+	.st103{clip-path:url(#SVGID_9_);fill:#007E1A;}
+	.st104{clip-path:url(#SVGID_9_);fill:#007F1A;}
+	.st105{clip-path:url(#SVGID_9_);fill:#00801A;}
+	.st106{clip-path:url(#SVGID_9_);fill:#00811B;}
+	.st107{clip-path:url(#SVGID_9_);fill:#00821B;}
+	.st108{clip-path:url(#SVGID_9_);fill:#00831B;}
+	.st109{clip-path:url(#SVGID_9_);fill:#00841B;}
+	.st110{clip-path:url(#SVGID_9_);fill:#00851B;}
+	.st111{clip-path:url(#SVGID_9_);fill:#00861C;}
+	.st112{clip-path:url(#SVGID_9_);fill:#00871C;}
+	.st113{clip-path:url(#SVGID_9_);fill:#00881C;}
+	.st114{clip-path:url(#SVGID_9_);fill:#00891C;}
+	.st115{clip-path:url(#SVGID_9_);fill:#008A1C;}
+	.st116{clip-path:url(#SVGID_9_);fill:#008A1D;}
+	.st117{clip-path:url(#SVGID_9_);fill:#008B1D;}
+	.st118{clip-path:url(#SVGID_9_);fill:#008C1D;}
+	.st119{clip-path:url(#SVGID_9_);fill:#008D1D;}
+	.st120{clip-path:url(#SVGID_9_);fill:#008E1D;}
+	.st121{clip-path:url(#SVGID_9_);fill:#008F1D;}
+	.st122{clip-path:url(#SVGID_9_);fill:#00901E;}
+	.st123{clip-path:url(#SVGID_9_);fill:#00911E;}
+	.st124{clip-path:url(#SVGID_9_);fill:#00921E;}
+	.st125{clip-path:url(#SVGID_9_);fill:#00931E;}
+	.st126{clip-path:url(#SVGID_9_);fill:#00941F;}
+	.st127{clip-path:url(#SVGID_9_);fill:#00951F;}
+	.st128{clip-path:url(#SVGID_9_);fill:#00961F;}
+	.st129{clip-path:url(#SVGID_9_);fill:#00971F;}
+	.st130{clip-path:url(#SVGID_9_);fill:#00981F;}
+	.st131{clip-path:url(#SVGID_9_);fill:#00991F;}
+	.st132{clip-path:url(#SVGID_9_);fill:#009920;}
+	.st133{clip-path:url(#SVGID_9_);fill:#009A20;}
+	.st134{clip-path:url(#SVGID_9_);fill:#009B20;}
+	.st135{clip-path:url(#SVGID_9_);fill:#009C20;}
+	.st136{clip-path:url(#SVGID_9_);fill:#009D20;}
+	.st137{clip-path:url(#SVGID_9_);fill:#009E20;}
+	.st138{clip-path:url(#SVGID_9_);fill:#009E21;}
+	.st139{clip-path:url(#SVGID_9_);fill:#009F21;}
+	.st140{clip-path:url(#SVGID_9_);fill:#00A021;}
+	.st141{clip-path:url(#SVGID_9_);fill:#00A121;}
+	.st142{clip-path:url(#SVGID_9_);fill:#00A221;}
+	.st143{clip-path:url(#SVGID_9_);fill:#00A322;}
+	.st144{clip-path:url(#SVGID_9_);fill:#00A422;}
+	.st145{clip-path:url(#SVGID_9_);fill:#00A522;}
+	.st146{clip-path:url(#SVGID_9_);fill:#00A321;}
+	.st147{clip-path:url(#SVGID_9_);fill:#00941E;}
+	.st148{clip-path:url(#SVGID_9_);fill:#007718;}
+	.st149{clip-path:url(#SVGID_9_);fill:#006014;}
+	.st150{clip-path:url(#SVGID_9_);fill:#005512;}
+	.st151{clip-path:url(#SVGID_9_);fill:#005411;}
+	.st152{clip-path:url(#SVGID_9_);fill:#005010;}
+	.st153{clip-path:url(#SVGID_9_);fill:#004B0F;}
+	.st154{clip-path:url(#SVGID_9_);fill:#00470F;}
+	.st155{clip-path:url(#SVGID_9_);fill:#003F0D;}
+	.st156{clip-path:url(#SVGID_9_);fill:#003C0C;}
+	.st157{clip-path:url(#SVGID_9_);fill:#00350B;}
+	.st158{clip-path:url(#SVGID_9_);fill:#002E0A;}
+	.st159{clip-path:url(#SVGID_9_);fill:#002B09;}
+	.st160{clip-path:url(#SVGID_9_);fill:#002909;}
+	.st161{clip-path:url(#SVGID_9_);fill:#002808;}
+	.st162{clip-path:url(#SVGID_9_);fill:#002207;}
+	.st163{clip-path:url(#SVGID_9_);fill:#001F06;}
+	.st164{clip-path:url(#SVGID_9_);fill:#001905;}
+	.st165{clip-path:url(#SVGID_9_);fill:#001404;}
+	.st166{clip-path:url(#SVGID_9_);fill:#000E03;}
+	.st167{clip-path:url(#SVGID_9_);fill:#000C02;}
+	.st168{clip-path:url(#SVGID_9_);fill:#000601;}
+	.st169{clip-path:url(#SVGID_9_);fill:#000401;}
+	.st170{fill:#FC0303;}
+	.st171{clip-path:url(#SVGID_11_);fill:#FF1C00;}
+	.st172{clip-path:url(#SVGID_11_);fill:#FE1C00;}
+	.st173{clip-path:url(#SVGID_11_);fill:#FD1C00;}
+	.st174{clip-path:url(#SVGID_11_);fill:#FC1C00;}
+	.st175{clip-path:url(#SVGID_11_);fill:#FB1C00;}
+	.st176{clip-path:url(#SVGID_11_);fill:#FA1B00;}
+	.st177{clip-path:url(#SVGID_11_);fill:#F91B00;}
+	.st178{clip-path:url(#SVGID_11_);fill:#F81B00;}
+	.st179{clip-path:url(#SVGID_11_);fill:#F71B00;}
+	.st180{clip-path:url(#SVGID_11_);fill:#F61B00;}
+	.st181{clip-path:url(#SVGID_11_);fill:#F51B00;}
+	.st182{clip-path:url(#SVGID_11_);fill:#F41B00;}
+	.st183{clip-path:url(#SVGID_11_);fill:#F31B00;}
+	.st184{clip-path:url(#SVGID_11_);fill:#F21B00;}
+	.st185{clip-path:url(#SVGID_11_);fill:#F11A00;}
+	.st186{clip-path:url(#SVGID_11_);fill:#F01A00;}
+	.st187{clip-path:url(#SVGID_11_);fill:#EF1A00;}
+	.st188{clip-path:url(#SVGID_11_);fill:#EE1A00;}
+	.st189{clip-path:url(#SVGID_11_);fill:#ED1A00;}
+	.st190{clip-path:url(#SVGID_11_);fill:#EC1A00;}
+	.st191{clip-path:url(#SVGID_11_);fill:#EB1A00;}
+	.st192{clip-path:url(#SVGID_11_);fill:#EA1A00;}
+	.st193{clip-path:url(#SVGID_11_);fill:#E91A00;}
+	.st194{clip-path:url(#SVGID_11_);fill:#E81900;}
+	.st195{clip-path:url(#SVGID_11_);fill:#E71900;}
+	.st196{clip-path:url(#SVGID_11_);fill:#E61900;}
+	.st197{clip-path:url(#SVGID_11_);fill:#E51900;}
+	.st198{clip-path:url(#SVGID_11_);fill:#E41900;}
+	.st199{clip-path:url(#SVGID_11_);fill:#E31900;}
+	.st200{clip-path:url(#SVGID_11_);fill:#E21900;}
+	.st201{clip-path:url(#SVGID_11_);fill:#E11900;}
+	.st202{clip-path:url(#SVGID_11_);fill:#E01900;}
+	.st203{clip-path:url(#SVGID_11_);fill:#DF1800;}
+	.st204{clip-path:url(#SVGID_11_);fill:#DE1800;}
+	.st205{clip-path:url(#SVGID_11_);fill:#DD1800;}
+	.st206{clip-path:url(#SVGID_11_);fill:#DC1800;}
+	.st207{clip-path:url(#SVGID_11_);fill:#DB1800;}
+	.st208{clip-path:url(#SVGID_11_);fill:#DA1800;}
+	.st209{clip-path:url(#SVGID_11_);fill:#D91800;}
+	.st210{clip-path:url(#SVGID_11_);fill:#D81800;}
+	.st211{clip-path:url(#SVGID_11_);fill:#D71800;}
+	.st212{clip-path:url(#SVGID_11_);fill:#D61700;}
+	.st213{clip-path:url(#SVGID_11_);fill:#D51700;}
+	.st214{clip-path:url(#SVGID_11_);fill:#D41700;}
+	.st215{clip-path:url(#SVGID_11_);fill:#D31700;}
+	.st216{clip-path:url(#SVGID_11_);fill:#D21700;}
+	.st217{clip-path:url(#SVGID_11_);fill:#D11700;}
+	.st218{clip-path:url(#SVGID_11_);fill:#D01700;}
+	.st219{clip-path:url(#SVGID_11_);fill:#CF1700;}
+	.st220{clip-path:url(#SVGID_11_);fill:#CE1700;}
+	.st221{clip-path:url(#SVGID_11_);fill:#CD1700;}
+	.st222{clip-path:url(#SVGID_11_);fill:#CD1600;}
+	.st223{clip-path:url(#SVGID_11_);fill:#CC1600;}
+	.st224{clip-path:url(#SVGID_11_);fill:#CB1600;}
+	.st225{clip-path:url(#SVGID_11_);fill:#CA1600;}
+	.st226{clip-path:url(#SVGID_11_);fill:#C91600;}
+	.st227{clip-path:url(#SVGID_11_);fill:#C81600;}
+	.st228{clip-path:url(#SVGID_11_);fill:#C71600;}
+	.st229{clip-path:url(#SVGID_11_);fill:#C61600;}
+	.st230{clip-path:url(#SVGID_11_);fill:#C51600;}
+	.st231{clip-path:url(#SVGID_11_);fill:#C41600;}
+	.st232{clip-path:url(#SVGID_11_);fill:#C31500;}
+	.st233{clip-path:url(#SVGID_11_);fill:#C21500;}
+	.st234{clip-path:url(#SVGID_11_);fill:#C11500;}
+	.st235{clip-path:url(#SVGID_11_);fill:#C01500;}
+	.st236{clip-path:url(#SVGID_11_);fill:#BF1500;}
+	.st237{clip-path:url(#SVGID_11_);fill:#BE1500;}
+	.st238{clip-path:url(#SVGID_11_);fill:#BD1500;}
+	.st239{clip-path:url(#SVGID_11_);fill:#BC1500;}
+	.st240{clip-path:url(#SVGID_11_);fill:#BB1500;}
+	.st241{clip-path:url(#SVGID_11_);fill:#BA1400;}
+	.st242{clip-path:url(#SVGID_11_);fill:#B91400;}
+	.st243{clip-path:url(#SVGID_11_);fill:#B81400;}
+	.st244{clip-path:url(#SVGID_11_);fill:#B71400;}
+	.st245{clip-path:url(#SVGID_11_);fill:#B61400;}
+	.st246{clip-path:url(#SVGID_11_);fill:#B51400;}
+	.st247{clip-path:url(#SVGID_11_);fill:#B41400;}
+	.st248{clip-path:url(#SVGID_11_);fill:#B31400;}
+	.st249{clip-path:url(#SVGID_11_);fill:#B21300;}
+	.st250{clip-path:url(#SVGID_11_);fill:#B01300;}
+	.st251{clip-path:url(#SVGID_11_);fill:#AF1300;}
+	.st252{clip-path:url(#SVGID_11_);fill:#AE1300;}
+	.st253{clip-path:url(#SVGID_11_);fill:#AD1300;}
+	.st254{clip-path:url(#SVGID_11_);fill:#AC1300;}
+	.st255{clip-path:url(#SVGID_11_);fill:#AB1300;}
+	.st256{clip-path:url(#SVGID_11_);fill:#AA1300;}
+	.st257{clip-path:url(#SVGID_11_);fill:#A81200;}
+	.st258{clip-path:url(#SVGID_11_);fill:#A71200;}
+	.st259{clip-path:url(#SVGID_11_);fill:#A61200;}
+	.st260{clip-path:url(#SVGID_11_);fill:#A51200;}
+	.st261{clip-path:url(#SVGID_11_);fill:#A41200;}
+	.st262{clip-path:url(#SVGID_11_);fill:#A31200;}
+	.st263{clip-path:url(#SVGID_11_);fill:#A11200;}
+	.st264{clip-path:url(#SVGID_11_);fill:#A01200;}
+	.st265{clip-path:url(#SVGID_11_);fill:#9F1100;}
+	.st266{clip-path:url(#SVGID_11_);fill:#9E1100;}
+	.st267{clip-path:url(#SVGID_11_);fill:#9C1100;}
+	.st268{clip-path:url(#SVGID_11_);fill:#9B1100;}
+	.st269{clip-path:url(#SVGID_11_);fill:#9A1100;}
+	.st270{clip-path:url(#SVGID_11_);fill:#991100;}
+	.st271{clip-path:url(#SVGID_11_);fill:#971100;}
+	.st272{clip-path:url(#SVGID_11_);fill:#961000;}
+	.st273{clip-path:url(#SVGID_11_);fill:#951000;}
+	.st274{clip-path:url(#SVGID_11_);fill:#931000;}
+	.st275{clip-path:url(#SVGID_11_);fill:#921000;}
+	.st276{clip-path:url(#SVGID_11_);fill:#911000;}
+	.st277{clip-path:url(#SVGID_11_);fill:#8F1000;}
+	.st278{clip-path:url(#SVGID_11_);fill:#8E1000;}
+	.st279{clip-path:url(#SVGID_11_);fill:#8D0F00;}
+	.st280{clip-path:url(#SVGID_11_);fill:#8B0F00;}
+	.st281{clip-path:url(#SVGID_11_);fill:#8A0F00;}
+	.st282{clip-path:url(#SVGID_11_);fill:#890F00;}
+	.st283{clip-path:url(#SVGID_11_);fill:#870F00;}
+	.st284{clip-path:url(#SVGID_11_);fill:#860F00;}
+	.st285{clip-path:url(#SVGID_11_);fill:#850F00;}
+	.st286{clip-path:url(#SVGID_11_);fill:#830E00;}
+	.st287{clip-path:url(#SVGID_11_);fill:#820E00;}
+	.st288{clip-path:url(#SVGID_11_);fill:#800E00;}
+	.st289{clip-path:url(#SVGID_11_);fill:#7F0E00;}
+	.st290{clip-path:url(#SVGID_11_);fill:#7E0E00;}
+	.st291{clip-path:url(#SVGID_11_);fill:#7C0E00;}
+	.st292{clip-path:url(#SVGID_11_);fill:#7B0D00;}
+	.st293{clip-path:url(#SVGID_11_);fill:#790D00;}
+	.st294{clip-path:url(#SVGID_11_);fill:#780D00;}
+	.st295{clip-path:url(#SVGID_11_);fill:#760D00;}
+	.st296{clip-path:url(#SVGID_11_);fill:#750D00;}
+	.st297{clip-path:url(#SVGID_11_);fill:#730D00;}
+	.st298{clip-path:url(#SVGID_11_);fill:#720D00;}
+	.st299{clip-path:url(#SVGID_11_);fill:#700C00;}
+	.st300{clip-path:url(#SVGID_11_);fill:#6F0C00;}
+	.st301{clip-path:url(#SVGID_11_);fill:#6D0C00;}
+	.st302{clip-path:url(#SVGID_11_);fill:#6C0C00;}
+	.st303{clip-path:url(#SVGID_11_);fill:#6A0C00;}
+	.st304{clip-path:url(#SVGID_11_);fill:#690C00;}
+	.st305{clip-path:url(#SVGID_11_);fill:#670B00;}
+	.st306{clip-path:url(#SVGID_11_);fill:#660B00;}
+	.st307{clip-path:url(#SVGID_11_);fill:#640B00;}
+	.st308{clip-path:url(#SVGID_11_);fill:#630B00;}
+	.st309{clip-path:url(#SVGID_11_);fill:#610B00;}
+	.st310{clip-path:url(#SVGID_11_);fill:#5F0A00;}
+	.st311{clip-path:url(#SVGID_11_);fill:#5E0A00;}
+	.st312{clip-path:url(#SVGID_11_);fill:#5C0A00;}
+	.st313{clip-path:url(#SVGID_11_);fill:#5B0A00;}
+	.st314{clip-path:url(#SVGID_11_);fill:#590A00;}
+	.st315{clip-path:url(#SVGID_11_);fill:#570A00;}
+	.st316{clip-path:url(#SVGID_11_);fill:#560900;}
+	.st317{clip-path:url(#SVGID_11_);fill:#540900;}
+	.st318{clip-path:url(#SVGID_11_);fill:#520900;}
+	.st319{clip-path:url(#SVGID_11_);fill:#510900;}
+	.st320{clip-path:url(#SVGID_11_);fill:#4F0900;}
+	.st321{clip-path:url(#SVGID_11_);fill:#4D0800;}
+	.st322{clip-path:url(#SVGID_11_);fill:#4C0800;}
+	.st323{clip-path:url(#SVGID_11_);fill:#4A0800;}
+	.st324{clip-path:url(#SVGID_11_);fill:#480800;}
+	.st325{clip-path:url(#SVGID_11_);fill:#470800;}
+	.st326{clip-path:url(#SVGID_11_);fill:#450800;}
+	.st327{clip-path:url(#SVGID_11_);fill:#430700;}
+	.st328{clip-path:url(#SVGID_11_);fill:#410700;}
+	.st329{clip-path:url(#SVGID_11_);fill:#400700;}
+	.st330{clip-path:url(#SVGID_11_);fill:#3E0700;}
+	.st331{clip-path:url(#SVGID_11_);fill:#3C0700;}
+	.st332{clip-path:url(#SVGID_11_);fill:#3A0600;}
+	.st333{clip-path:url(#SVGID_11_);fill:#390600;}
+	.st334{clip-path:url(#SVGID_11_);fill:#370600;}
+	.st335{clip-path:url(#SVGID_11_);fill:#350600;}
+	.st336{clip-path:url(#SVGID_11_);fill:#330600;}
+	.st337{clip-path:url(#SVGID_11_);fill:#320500;}
+	.st338{clip-path:url(#SVGID_11_);fill:#300500;}
+	.st339{clip-path:url(#SVGID_11_);fill:#2E0500;}
+	.st340{clip-path:url(#SVGID_11_);fill:#2C0500;}
+	.st341{clip-path:url(#SVGID_11_);fill:#2A0500;}
+	.st342{clip-path:url(#SVGID_11_);fill:#280400;}
+	.st343{clip-path:url(#SVGID_11_);fill:#270400;}
+	.st344{clip-path:url(#SVGID_11_);fill:#250400;}
+	.st345{clip-path:url(#SVGID_11_);fill:#230400;}
+	.st346{clip-path:url(#SVGID_11_);fill:#210400;}
+	.st347{clip-path:url(#SVGID_11_);fill:#1F0300;}
+	.st348{clip-path:url(#SVGID_11_);fill:#1D0300;}
+	.st349{clip-path:url(#SVGID_11_);fill:#1B0300;}
+	.st350{clip-path:url(#SVGID_11_);fill:#190300;}
+	.st351{clip-path:url(#SVGID_11_);fill:#180300;}
+	.st352{clip-path:url(#SVGID_11_);fill:#160200;}
+	.st353{clip-path:url(#SVGID_11_);fill:#140200;}
+	.st354{clip-path:url(#SVGID_11_);fill:#120200;}
+	.st355{clip-path:url(#SVGID_11_);fill:#100200;}
+	.st356{clip-path:url(#SVGID_11_);fill:#0E0200;}
+	.st357{clip-path:url(#SVGID_11_);fill:#0C0100;}
+	.st358{clip-path:url(#SVGID_11_);fill:#0A0100;}
+	.st359{clip-path:url(#SVGID_11_);fill:#080100;}
+	.st360{clip-path:url(#SVGID_11_);fill:#060100;}
+	.st361{clip-path:url(#SVGID_11_);fill:#040000;}
+	.st362{clip-path:url(#SVGID_11_);fill:#020000;}
+	.st363{clip-path:url(#SVGID_11_);}
+	.st364{fill:url(#SVGID_12_);}
+	.st365{fill:url(#SVGID_13_);}
+	.st366{clip-path:url(#SVGID_15_);}
+	.st367{clip-path:url(#SVGID_15_);fill:#000200;}
+	.st368{clip-path:url(#SVGID_15_);fill:#000301;}
+	.st369{clip-path:url(#SVGID_15_);fill:#000501;}
+	.st370{clip-path:url(#SVGID_15_);fill:#000701;}
+	.st371{clip-path:url(#SVGID_15_);fill:#000802;}
+	.st372{clip-path:url(#SVGID_15_);fill:#000A02;}
+	.st373{clip-path:url(#SVGID_15_);fill:#000B02;}
+	.st374{clip-path:url(#SVGID_15_);fill:#000D03;}
+	.st375{clip-path:url(#SVGID_15_);fill:#000F03;}
+	.st376{clip-path:url(#SVGID_15_);fill:#001003;}
+	.st377{clip-path:url(#SVGID_15_);fill:#001204;}
+	.st378{clip-path:url(#SVGID_15_);fill:#001304;}
+	.st379{clip-path:url(#SVGID_15_);fill:#001504;}
+	.st380{clip-path:url(#SVGID_15_);fill:#001705;}
+	.st381{clip-path:url(#SVGID_15_);fill:#001805;}
+	.st382{clip-path:url(#SVGID_15_);fill:#001A05;}
+	.st383{clip-path:url(#SVGID_15_);fill:#001B06;}
+	.st384{clip-path:url(#SVGID_15_);fill:#001D06;}
+	.st385{clip-path:url(#SVGID_15_);fill:#001E06;}
+	.st386{clip-path:url(#SVGID_15_);fill:#002007;}
+	.st387{clip-path:url(#SVGID_15_);fill:#002107;}
+	.st388{clip-path:url(#SVGID_15_);fill:#002307;}
+	.st389{clip-path:url(#SVGID_15_);fill:#002407;}
+	.st390{clip-path:url(#SVGID_15_);fill:#002608;}
+	.st391{clip-path:url(#SVGID_15_);fill:#002708;}
+	.st392{clip-path:url(#SVGID_15_);fill:#002908;}
+	.st393{clip-path:url(#SVGID_15_);fill:#002A09;}
+	.st394{clip-path:url(#SVGID_15_);fill:#002C09;}
+	.st395{clip-path:url(#SVGID_15_);fill:#002D09;}
+	.st396{clip-path:url(#SVGID_15_);fill:#002F0A;}
+	.st397{clip-path:url(#SVGID_15_);fill:#00300A;}
+	.st398{clip-path:url(#SVGID_15_);fill:#00320A;}
+	.st399{clip-path:url(#SVGID_15_);fill:#00330B;}
+	.st400{clip-path:url(#SVGID_15_);fill:#00340B;}
+	.st401{clip-path:url(#SVGID_15_);fill:#00360B;}
+	.st402{clip-path:url(#SVGID_15_);fill:#00370B;}
+	.st403{clip-path:url(#SVGID_15_);fill:#00390C;}
+	.st404{clip-path:url(#SVGID_15_);fill:#003A0C;}
+	.st405{clip-path:url(#SVGID_15_);fill:#003B0C;}
+	.st406{clip-path:url(#SVGID_15_);fill:#003D0D;}
+	.st407{clip-path:url(#SVGID_15_);fill:#003E0D;}
+	.st408{clip-path:url(#SVGID_15_);fill:#00400D;}
+	.st409{clip-path:url(#SVGID_15_);fill:#00410D;}
+	.st410{clip-path:url(#SVGID_15_);fill:#00420E;}
+	.st411{clip-path:url(#SVGID_15_);fill:#00440E;}
+	.st412{clip-path:url(#SVGID_15_);fill:#00450E;}
+	.st413{clip-path:url(#SVGID_15_);fill:#00460E;}
+	.st414{clip-path:url(#SVGID_15_);fill:#00480F;}
+	.st415{clip-path:url(#SVGID_15_);fill:#00490F;}
+	.st416{clip-path:url(#SVGID_15_);fill:#004A0F;}
+	.st417{clip-path:url(#SVGID_15_);fill:#004C10;}
+	.st418{clip-path:url(#SVGID_15_);fill:#004D10;}
+	.st419{clip-path:url(#SVGID_15_);fill:#004E10;}
+	.st420{clip-path:url(#SVGID_15_);fill:#004F10;}
+	.st421{clip-path:url(#SVGID_15_);fill:#005111;}
+	.st422{clip-path:url(#SVGID_15_);fill:#005211;}
+	.st423{clip-path:url(#SVGID_15_);fill:#005311;}
+	.st424{clip-path:url(#SVGID_15_);fill:#005511;}
+	.st425{clip-path:url(#SVGID_15_);fill:#005612;}
+	.st426{clip-path:url(#SVGID_15_);fill:#005712;}
+	.st427{clip-path:url(#SVGID_15_);fill:#005812;}
+	.st428{clip-path:url(#SVGID_15_);fill:#005912;}
+	.st429{clip-path:url(#SVGID_15_);fill:#005B13;}
+	.st430{clip-path:url(#SVGID_15_);fill:#005C13;}
+	.st431{clip-path:url(#SVGID_15_);fill:#005D13;}
+	.st432{clip-path:url(#SVGID_15_);fill:#005E13;}
+	.st433{clip-path:url(#SVGID_15_);fill:#005F14;}
+	.st434{clip-path:url(#SVGID_15_);fill:#006114;}
+	.st435{clip-path:url(#SVGID_15_);fill:#006214;}
+	.st436{clip-path:url(#SVGID_15_);fill:#006314;}
+	.st437{clip-path:url(#SVGID_15_);fill:#006415;}
+	.st438{clip-path:url(#SVGID_15_);fill:#006515;}
+	.st439{clip-path:url(#SVGID_15_);fill:#006615;}
+	.st440{clip-path:url(#SVGID_15_);fill:#006815;}
+	.st441{clip-path:url(#SVGID_15_);fill:#006916;}
+	.st442{clip-path:url(#SVGID_15_);fill:#006A16;}
+	.st443{clip-path:url(#SVGID_15_);fill:#006B16;}
+	.st444{clip-path:url(#SVGID_15_);fill:#006C16;}
+	.st445{clip-path:url(#SVGID_15_);fill:#006D16;}
+	.st446{clip-path:url(#SVGID_15_);fill:#006E17;}
+	.st447{clip-path:url(#SVGID_15_);fill:#006F17;}
+	.st448{clip-path:url(#SVGID_15_);fill:#007017;}
+	.st449{clip-path:url(#SVGID_15_);fill:#007117;}
+	.st450{clip-path:url(#SVGID_15_);fill:#007218;}
+	.st451{clip-path:url(#SVGID_15_);fill:#007318;}
+	.st452{clip-path:url(#SVGID_15_);fill:#007418;}
+	.st453{clip-path:url(#SVGID_15_);fill:#007518;}
+	.st454{clip-path:url(#SVGID_15_);fill:#007618;}
+	.st455{clip-path:url(#SVGID_15_);fill:#007719;}
+	.st456{clip-path:url(#SVGID_15_);fill:#007819;}
+	.st457{clip-path:url(#SVGID_15_);fill:#007919;}
+	.st458{clip-path:url(#SVGID_15_);fill:#007A19;}
+	.st459{clip-path:url(#SVGID_15_);fill:#007B19;}
+	.st460{clip-path:url(#SVGID_15_);fill:#007C1A;}
+	.st461{clip-path:url(#SVGID_15_);fill:#007D1A;}
+	.st462{clip-path:url(#SVGID_15_);fill:#007E1A;}
+	.st463{clip-path:url(#SVGID_15_);fill:#007F1A;}
+	.st464{clip-path:url(#SVGID_15_);fill:#00801A;}
+	.st465{clip-path:url(#SVGID_15_);fill:#00811B;}
+	.st466{clip-path:url(#SVGID_15_);fill:#00821B;}
+	.st467{clip-path:url(#SVGID_15_);fill:#00831B;}
+	.st468{clip-path:url(#SVGID_15_);fill:#00841B;}
+	.st469{clip-path:url(#SVGID_15_);fill:#00851B;}
+	.st470{clip-path:url(#SVGID_15_);fill:#00861C;}
+	.st471{clip-path:url(#SVGID_15_);fill:#00871C;}
+	.st472{clip-path:url(#SVGID_15_);fill:#00881C;}
+	.st473{clip-path:url(#SVGID_15_);fill:#00891C;}
+	.st474{clip-path:url(#SVGID_15_);fill:#008A1C;}
+	.st475{clip-path:url(#SVGID_15_);fill:#008A1D;}
+	.st476{clip-path:url(#SVGID_15_);fill:#008B1D;}
+	.st477{clip-path:url(#SVGID_15_);fill:#008C1D;}
+	.st478{clip-path:url(#SVGID_15_);fill:#008D1D;}
+	.st479{clip-path:url(#SVGID_15_);fill:#008E1D;}
+	.st480{clip-path:url(#SVGID_15_);fill:#008F1D;}
+	.st481{clip-path:url(#SVGID_15_);fill:#00901E;}
+	.st482{clip-path:url(#SVGID_15_);fill:#00911E;}
+	.st483{clip-path:url(#SVGID_15_);fill:#00921E;}
+	.st484{clip-path:url(#SVGID_15_);fill:#00931E;}
+	.st485{clip-path:url(#SVGID_15_);fill:#00941F;}
+	.st486{clip-path:url(#SVGID_15_);fill:#00951F;}
+	.st487{clip-path:url(#SVGID_15_);fill:#00961F;}
+	.st488{clip-path:url(#SVGID_15_);fill:#00971F;}
+	.st489{clip-path:url(#SVGID_15_);fill:#00981F;}
+	.st490{clip-path:url(#SVGID_15_);fill:#00991F;}
+	.st491{clip-path:url(#SVGID_15_);fill:#009920;}
+	.st492{clip-path:url(#SVGID_15_);fill:#009A20;}
+	.st493{clip-path:url(#SVGID_15_);fill:#009B20;}
+	.st494{clip-path:url(#SVGID_15_);fill:#009C20;}
+	.st495{clip-path:url(#SVGID_15_);fill:#009D20;}
+	.st496{clip-path:url(#SVGID_15_);fill:#009E20;}
+	.st497{clip-path:url(#SVGID_15_);fill:#009E21;}
+	.st498{clip-path:url(#SVGID_15_);fill:#009F21;}
+	.st499{clip-path:url(#SVGID_15_);fill:#00A021;}
+	.st500{clip-path:url(#SVGID_15_);fill:#00A121;}
+	.st501{clip-path:url(#SVGID_15_);fill:#00A221;}
+	.st502{clip-path:url(#SVGID_15_);fill:#00A322;}
+	.st503{clip-path:url(#SVGID_15_);fill:#00A422;}
+	.st504{clip-path:url(#SVGID_15_);fill:#00A522;}
+	.st505{clip-path:url(#SVGID_15_);fill:#00A321;}
+	.st506{clip-path:url(#SVGID_15_);fill:#00941E;}
+	.st507{clip-path:url(#SVGID_15_);fill:#007718;}
+	.st508{clip-path:url(#SVGID_15_);fill:#006014;}
+	.st509{clip-path:url(#SVGID_15_);fill:#005512;}
+	.st510{clip-path:url(#SVGID_15_);fill:#005411;}
+	.st511{clip-path:url(#SVGID_15_);fill:#005010;}
+	.st512{clip-path:url(#SVGID_15_);fill:#004B0F;}
+	.st513{clip-path:url(#SVGID_15_);fill:#00470F;}
+	.st514{clip-path:url(#SVGID_15_);fill:#003F0D;}
+	.st515{clip-path:url(#SVGID_15_);fill:#003C0C;}
+	.st516{clip-path:url(#SVGID_15_);fill:#00350B;}
+	.st517{clip-path:url(#SVGID_15_);fill:#002E0A;}
+	.st518{clip-path:url(#SVGID_15_);fill:#002B09;}
+	.st519{clip-path:url(#SVGID_15_);fill:#002909;}
+	.st520{clip-path:url(#SVGID_15_);fill:#002808;}
+	.st521{clip-path:url(#SVGID_15_);fill:#002207;}
+	.st522{clip-path:url(#SVGID_15_);fill:#001F06;}
+	.st523{clip-path:url(#SVGID_15_);fill:#001905;}
+	.st524{clip-path:url(#SVGID_15_);fill:#001404;}
+	.st525{clip-path:url(#SVGID_15_);fill:#000E03;}
+	.st526{clip-path:url(#SVGID_15_);fill:#000C02;}
+	.st527{clip-path:url(#SVGID_15_);fill:#000601;}
+	.st528{clip-path:url(#SVGID_15_);fill:#000401;}
+</style>
+<g>
+	<g>
+		<g>
+			<defs>
+				<path id="SVGID_8_" d="M79.5,147.9H10.3c0,0-17.2,7.1,0,17l69.3-0.4C79.5,164.5,91.1,159.6,79.5,147.9z"/>
+			</defs>
+			<clipPath id="SVGID_1_">
+				<use xlink:href="#SVGID_8_"  style="overflow:visible;"/>
+			</clipPath>
+			<polygon style="clip-path:url(#SVGID_1_);" points="91.1,150.5 -6.9,150.2 -6.9,147.9 91.1,147.9 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);" points="91.1,150.5 -6.9,150.2 -6.9,150.2 91.1,150.5 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#000200;" points="91.1,150.5 -6.9,150.3 -6.9,150.2 91.1,150.5 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#000301;" points="91.1,150.6 -6.9,150.3 -6.9,150.3 91.1,150.5 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#000501;" points="91.1,150.6 -6.9,150.3 -6.9,150.3 91.1,150.6 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#000701;" points="91.1,150.6 -6.9,150.3 -6.9,150.3 91.1,150.6 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#000802;" points="91.1,150.6 -6.9,150.4 -6.9,150.3 91.1,150.6 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#000A02;" points="91.1,150.7 -6.9,150.4 -6.9,150.4 91.1,150.6 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#000B02;" points="91.1,150.7 -6.9,150.4 -6.9,150.4 91.1,150.7 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#000D03;" points="91.1,150.7 -6.9,150.4 -6.9,150.4 91.1,150.7 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#000F03;" points="91.1,150.7 -6.9,150.5 -6.9,150.4 91.1,150.7 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#001003;" points="91.1,150.8 -6.9,150.5 -6.9,150.5 91.1,150.7 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#001204;" points="91.1,150.8 -6.9,150.5 -6.9,150.5 91.1,150.8 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#001304;" points="91.1,150.8 -6.9,150.5 -6.9,150.5 91.1,150.8 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#001504;" points="91.1,150.8 -6.9,150.6 -6.9,150.5 91.1,150.8 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#001705;" points="91.1,150.9 -6.9,150.6 -6.9,150.6 91.1,150.8 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#001805;" points="91.1,150.9 -6.9,150.6 -6.9,150.6 91.1,150.9 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#001A05;" points="91.1,150.9 -6.9,150.6 -6.9,150.6 91.1,150.9 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#001B06;" points="91.1,150.9 -6.9,150.6 -6.9,150.6 91.1,150.9 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#001D06;" points="91.1,150.9 -6.9,150.7 -6.9,150.6 91.1,150.9 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#001E06;" points="91.1,151 -6.9,150.7 -6.9,150.7 91.1,150.9 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#002007;" points="91.1,151 -6.9,150.7 -6.9,150.7 91.1,151 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#002107;" points="91.1,151 -6.9,150.7 -6.9,150.7 91.1,151 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#002307;" points="91.1,151 -6.9,150.8 -6.9,150.7 91.1,151 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#002407;" points="91.1,151.1 -6.9,150.8 -6.9,150.8 91.1,151 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#002608;" points="91.1,151.1 -6.9,150.8 -6.9,150.8 91.1,151.1 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#002708;" points="91.1,151.1 -6.9,150.8 -6.9,150.8 91.1,151.1 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#002908;" points="91.1,151.1 -6.9,150.9 -6.9,150.8 91.1,151.1 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#002A09;" points="91.1,151.2 -6.9,150.9 -6.9,150.9 91.1,151.1 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#002C09;" points="91.1,151.2 -6.9,150.9 -6.9,150.9 91.1,151.2 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#002D09;" points="91.1,151.2 -6.9,150.9 -6.9,150.9 91.1,151.2 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#002F0A;" points="91.1,151.2 -6.9,151 -6.9,150.9 91.1,151.2 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00300A;" points="91.1,151.3 -6.9,151 -6.9,151 91.1,151.2 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00320A;" points="91.1,151.3 -6.9,151 -6.9,151 91.1,151.3 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00330B;" points="91.1,151.3 -6.9,151 -6.9,151 91.1,151.3 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00340B;" points="91.1,151.3 -6.9,151.1 -6.9,151 91.1,151.3 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00360B;" points="91.1,151.4 -6.9,151.1 -6.9,151.1 91.1,151.3 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00370B;" points="91.1,151.4 -6.9,151.1 -6.9,151.1 91.1,151.4 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00390C;" points="91.1,151.4 -6.9,151.1 -6.9,151.1 91.1,151.4 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#003A0C;" points="91.1,151.4 -6.9,151.1 -6.9,151.1 91.1,151.4 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#003B0C;" points="91.1,151.4 -6.9,151.2 -6.9,151.1 91.1,151.4 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#003D0D;" points="91.1,151.5 -6.9,151.2 -6.9,151.2 91.1,151.4 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#003E0D;" points="91.1,151.5 -6.9,151.2 -6.9,151.2 91.1,151.5 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00400D;" points="91.1,151.5 -6.9,151.2 -6.9,151.2 91.1,151.5 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00410D;" points="91.1,151.5 -6.9,151.3 -6.9,151.2 91.1,151.5 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00420E;" points="91.1,151.6 -6.9,151.3 -6.9,151.3 91.1,151.5 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00440E;" points="91.1,151.6 -6.9,151.3 -6.9,151.3 91.1,151.6 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00450E;" points="91.1,151.6 -6.9,151.3 -6.9,151.3 91.1,151.6 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00460E;" points="91.1,151.6 -6.9,151.4 -6.9,151.3 91.1,151.6 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00480F;" points="91.1,151.7 -6.9,151.4 -6.9,151.4 91.1,151.6 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00490F;" points="91.1,151.7 -6.9,151.4 -6.9,151.4 91.1,151.7 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#004A0F;" points="91.1,151.7 -6.9,151.4 -6.9,151.4 91.1,151.7 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#004C10;" points="91.1,151.7 -6.9,151.5 -6.9,151.4 91.1,151.7 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#004D10;" points="91.1,151.8 -6.9,151.5 -6.9,151.5 91.1,151.7 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#004E10;" points="91.1,151.8 -6.9,151.5 -6.9,151.5 91.1,151.8 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#004F10;" points="91.1,151.8 -6.9,151.5 -6.9,151.5 91.1,151.8 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#005111;" points="91.1,151.8 -6.9,151.5 -6.9,151.5 91.1,151.8 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#005211;" points="91.1,151.8 -6.9,151.6 -6.9,151.5 91.1,151.8 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#005311;" points="91.1,151.9 -6.9,151.6 -6.9,151.6 91.1,151.8 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#005511;" points="91.1,151.9 -6.9,151.6 -6.9,151.6 91.1,151.9 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#005612;" points="91.1,151.9 -6.9,151.6 -6.9,151.6 91.1,151.9 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#005712;" points="91.1,151.9 -6.9,151.7 -6.9,151.6 91.1,151.9 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#005812;" points="91.1,152 -6.9,151.7 -6.9,151.7 91.1,151.9 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#005912;" points="91.1,152 -6.9,151.7 -6.9,151.7 91.1,152 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#005B13;" points="91.1,152 -6.9,151.7 -6.9,151.7 91.1,152 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#005C13;" points="91.1,152 -6.9,151.8 -6.9,151.7 91.1,152 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#005D13;" points="91.1,152.1 -6.9,151.8 -6.9,151.8 91.1,152 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#005E13;" points="91.1,152.1 -6.9,151.8 -6.9,151.8 91.1,152.1 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#005F14;" points="91.1,152.1 -6.9,151.8 -6.9,151.8 91.1,152.1 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#006114;" points="91.1,152.1 -6.9,151.9 -6.9,151.8 91.1,152.1 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#006214;" points="91.1,152.2 -6.9,151.9 -6.9,151.9 91.1,152.1 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#006314;" points="91.1,152.2 -6.9,151.9 -6.9,151.9 91.1,152.2 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#006415;" points="91.1,152.2 -6.9,151.9 -6.9,151.9 91.1,152.2 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#006515;" points="91.1,152.2 -6.9,152 -6.9,151.9 91.1,152.2 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#006615;" points="91.1,152.3 -6.9,152 -6.9,152 91.1,152.2 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#006815;" points="91.1,152.3 -6.9,152 -6.9,152 91.1,152.3 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#006916;" points="91.1,152.3 -6.9,152 -6.9,152 91.1,152.3 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#006A16;" points="91.1,152.3 -6.9,152 -6.9,152 91.1,152.3 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#006B16;" points="91.1,152.3 -6.9,152.1 -6.9,152 91.1,152.3 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#006C16;" points="91.1,152.4 -6.9,152.1 -6.9,152.1 91.1,152.3 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#006D16;" points="91.1,152.4 -6.9,152.1 -6.9,152.1 91.1,152.4 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#006E17;" points="91.1,152.4 -6.9,152.1 -6.9,152.1 91.1,152.4 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#006F17;" points="91.1,152.4 -6.9,152.2 -6.9,152.1 91.1,152.4 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#007017;" points="91.1,152.5 -6.9,152.2 -6.9,152.2 91.1,152.4 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#007117;" points="91.1,152.5 -6.9,152.2 -6.9,152.2 91.1,152.5 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#007218;" points="91.1,152.5 -6.9,152.2 -6.9,152.2 91.1,152.5 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#007318;" points="91.1,152.5 -6.9,152.3 -6.9,152.2 91.1,152.5 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#007418;" points="91.1,152.6 -6.9,152.3 -6.9,152.3 91.1,152.5 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#007518;" points="91.1,152.6 -6.9,152.3 -6.9,152.3 91.1,152.6 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#007618;" points="91.1,152.6 -6.9,152.3 -6.9,152.3 91.1,152.6 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#007719;" points="91.1,152.6 -6.9,152.4 -6.9,152.3 91.1,152.6 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#007819;" points="91.1,152.7 -6.9,152.4 -6.9,152.4 91.1,152.6 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#007919;" points="91.1,152.7 -6.9,152.4 -6.9,152.4 91.1,152.7 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#007A19;" points="91.1,152.7 -6.9,152.4 -6.9,152.4 91.1,152.7 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#007B19;" points="91.1,152.7 -6.9,152.5 -6.9,152.4 91.1,152.7 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#007C1A;" points="91.1,152.7 -6.9,152.5 -6.9,152.5 91.1,152.7 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#007D1A;" points="91.1,152.8 -6.9,152.5 -6.9,152.5 91.1,152.7 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#007E1A;" points="91.1,152.8 -6.9,152.5 -6.9,152.5 91.1,152.8 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#007F1A;" points="91.1,152.8 -6.9,152.5 -6.9,152.5 91.1,152.8 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00801A;" points="91.1,152.8 -6.9,152.6 -6.9,152.5 91.1,152.8 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00811B;" points="91.1,152.9 -6.9,152.6 -6.9,152.6 91.1,152.8 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00821B;" points="91.1,152.9 -6.9,152.6 -6.9,152.6 91.1,152.9 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00831B;" points="91.1,152.9 -6.9,152.6 -6.9,152.6 91.1,152.9 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00841B;" points="91.1,152.9 -6.9,152.7 -6.9,152.6 91.1,152.9 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00851B;" points="91.1,153 -6.9,152.7 -6.9,152.7 91.1,152.9 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00851B;" points="91.1,153 -6.9,152.7 -6.9,152.7 91.1,153 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00861C;" points="91.1,153 -6.9,152.7 -6.9,152.7 91.1,153 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00871C;" points="91.1,153 -6.9,152.8 -6.9,152.7 91.1,153 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00881C;" points="91.1,153.1 -6.9,152.8 -6.9,152.8 91.1,153 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00891C;" points="91.1,153.1 -6.9,152.8 -6.9,152.8 91.1,153.1 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#008A1C;" points="91.1,153.1 -6.9,152.8 -6.9,152.8 91.1,153.1 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#008A1D;" points="91.1,153.1 -6.9,152.9 -6.9,152.8 91.1,153.1 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#008B1D;" points="91.1,153.2 -6.9,152.9 -6.9,152.9 91.1,153.1 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#008C1D;" points="91.1,153.2 -6.9,152.9 -6.9,152.9 91.1,153.2 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#008D1D;" points="91.1,153.2 -6.9,152.9 -6.9,152.9 91.1,153.2 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#008E1D;" points="91.1,153.2 -6.9,152.9 -6.9,152.9 91.1,153.2 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#008E1D;" points="91.1,153.2 -6.9,153 -6.9,152.9 91.1,153.2 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#008F1D;" points="91.1,153.3 -6.9,153 -6.9,153 91.1,153.2 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00901E;" points="91.1,153.3 -6.9,153 -6.9,153 91.1,153.3 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00911E;" points="91.1,153.3 -6.9,153 -6.9,153 91.1,153.3 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00911E;" points="91.1,153.3 -6.9,153.1 -6.9,153 91.1,153.3 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00921E;" points="91.1,153.4 -6.9,153.1 -6.9,153.1 91.1,153.3 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00931E;" points="91.1,153.4 -6.9,153.1 -6.9,153.1 91.1,153.4 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00931E;" points="91.1,153.4 -6.9,153.1 -6.9,153.1 91.1,153.4 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00941F;" points="91.1,153.4 -6.9,153.2 -6.9,153.1 91.1,153.4 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00951F;" points="91.1,153.5 -6.9,153.2 -6.9,153.2 91.1,153.4 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00951F;" points="91.1,153.5 -6.9,153.2 -6.9,153.2 91.1,153.5 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00961F;" points="91.1,153.5 -6.9,153.2 -6.9,153.2 91.1,153.5 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00971F;" points="91.1,153.5 -6.9,153.3 -6.9,153.2 91.1,153.5 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00971F;" points="91.1,153.6 -6.9,153.3 -6.9,153.3 91.1,153.5 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00981F;" points="91.1,153.6 -6.9,153.3 -6.9,153.3 91.1,153.6 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00991F;" points="91.1,153.6 -6.9,153.3 -6.9,153.3 91.1,153.6 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#009920;" points="91.1,153.6 -6.9,153.4 -6.9,153.3 91.1,153.6 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#009A20;" points="91.1,153.7 -6.9,153.4 -6.9,153.4 91.1,153.6 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#009A20;" points="91.1,153.7 -6.9,153.4 -6.9,153.4 91.1,153.7 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#009B20;" points="91.1,153.7 -6.9,153.4 -6.9,153.4 91.1,153.7 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#009B20;" points="91.1,153.7 -6.9,153.4 -6.9,153.4 91.1,153.7 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#009C20;" points="91.1,153.7 -6.9,153.5 -6.9,153.4 91.1,153.7 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#009D20;" points="91.1,153.8 -6.9,153.5 -6.9,153.5 91.1,153.7 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#009D20;" points="91.1,153.8 -6.9,153.5 -6.9,153.5 91.1,153.8 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#009E20;" points="91.1,153.8 -6.9,153.5 -6.9,153.5 91.1,153.8 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#009E21;" points="91.1,153.8 -6.9,153.6 -6.9,153.5 91.1,153.8 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#009E21;" points="91.1,153.9 -6.9,153.6 -6.9,153.6 91.1,153.8 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#009F21;" points="91.1,153.9 -6.9,153.6 -6.9,153.6 91.1,153.9 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#009F21;" points="91.1,153.9 -6.9,153.6 -6.9,153.6 91.1,153.9 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00A021;" points="91.1,153.9 -6.9,153.7 -6.9,153.6 91.1,153.9 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00A021;" points="91.1,154 -6.9,153.7 -6.9,153.7 91.1,153.9 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00A121;" points="91.1,154 -6.9,153.7 -6.9,153.7 91.1,154 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00A121;" points="91.1,154 -6.9,153.7 -6.9,153.7 91.1,154 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00A121;" points="91.1,154 -6.9,153.8 -6.9,153.7 91.1,154 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00A221;" points="91.1,154.1 -6.9,153.8 -6.9,153.8 91.1,154 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00A221;" points="91.1,154.1 -6.9,153.8 -6.9,153.8 91.1,154.1 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00A221;" points="91.1,154.1 -6.9,153.8 -6.9,153.8 91.1,154.1 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00A322;" points="91.1,154.1 -6.9,153.9 -6.9,153.8 91.1,154.1 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00A322;" points="91.1,154.1 -6.9,153.9 -6.9,153.9 91.1,154.1 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00A322;" points="91.1,154.2 -6.9,153.9 -6.9,153.9 91.1,154.1 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00A422;" points="91.1,154.2 -6.9,153.9 -6.9,153.9 91.1,154.2 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00A422;" points="91.1,154.2 -6.9,153.9 -6.9,153.9 91.1,154.2 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00A422;" points="91.1,154.2 -6.9,154 -6.9,153.9 91.1,154.2 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00A422;" points="91.1,154.3 -6.9,154 -6.9,154 91.1,154.2 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00A422;" points="91.1,154.3 -6.9,154 -6.9,154 91.1,154.3 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00A522;" points="91.1,154.3 -6.9,154 -6.9,154 91.1,154.3 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00A522;" points="91.1,154.3 -6.9,154.1 -6.9,154 91.1,154.3 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00A522;" points="91.1,154.4 -6.9,154.1 -6.9,154.1 91.1,154.3 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00A522;" points="91.1,154.4 -6.9,154.1 -6.9,154.1 91.1,154.4 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00A522;" points="91.1,154.4 -6.9,154.1 -6.9,154.1 91.1,154.4 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00A522;" points="91.1,154.5 -6.9,154.2 -6.9,154.1 91.1,154.4 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00A522;" points="91.1,154.5 -6.9,154.2 -6.9,154.2 91.1,154.5 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00A522;" points="91.1,154.6 -6.9,154.3 -6.9,154.2 91.1,154.5 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00A522;" points="91.1,154.6 -6.9,154.3 -6.9,154.3 91.1,154.6 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00A522;" points="91.1,154.6 -6.9,154.4 -6.9,154.3 91.1,154.6 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00A522;" points="91.1,154.7 -6.9,154.4 -6.9,154.4 91.1,154.6 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00A522;" points="91.1,154.7 -6.9,154.5 -6.9,154.4 91.1,154.7 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00A522;" points="91.1,154.8 -6.9,154.5 -6.9,154.5 91.1,154.7 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00A522;" points="91.1,154.8 -6.9,154.6 -6.9,154.5 91.1,154.8 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00A522;" points="91.1,154.9 -6.9,154.6 -6.9,154.6 91.1,154.8 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00A422;" points="91.1,154.9 -6.9,154.7 -6.9,154.6 91.1,154.9 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00A422;" points="91.1,155 -6.9,154.7 -6.9,154.7 91.1,154.9 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00A422;" points="91.1,155 -6.9,154.8 -6.9,154.7 91.1,155 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00A422;" points="91.1,155.1 -6.9,154.8 -6.9,154.8 91.1,155 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00A422;" points="91.1,155.1 -6.9,154.8 -6.9,154.8 91.1,155.1 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00A422;" points="91.1,155.2 -6.9,154.9 -6.9,154.8 91.1,155.1 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00A322;" points="91.1,155.2 -6.9,154.9 -6.9,154.9 91.1,155.2 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00A322;" points="91.1,155.3 -6.9,155 -6.9,154.9 91.1,155.2 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00A322;" points="91.1,155.3 -6.9,155 -6.9,155 91.1,155.3 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00A322;" points="91.1,155.4 -6.9,155.1 -6.9,155 91.1,155.3 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00A321;" points="91.1,155.4 -6.9,155.1 -6.9,155.1 91.1,155.4 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00A221;" points="91.1,155.5 -6.9,155.2 -6.9,155.1 91.1,155.4 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00A221;" points="91.1,155.5 -6.9,155.2 -6.9,155.2 91.1,155.5 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00A221;" points="91.1,155.6 -6.9,155.3 -6.9,155.2 91.1,155.5 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00A121;" points="91.1,155.6 -6.9,155.3 -6.9,155.3 91.1,155.6 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00A121;" points="91.1,155.6 -6.9,155.4 -6.9,155.3 91.1,155.6 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00A121;" points="91.1,155.7 -6.9,155.4 -6.9,155.4 91.1,155.6 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00A121;" points="91.1,155.7 -6.9,155.5 -6.9,155.4 91.1,155.7 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00A021;" points="91.1,155.8 -6.9,155.5 -6.9,155.5 91.1,155.7 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00A021;" points="91.1,155.8 -6.9,155.6 -6.9,155.5 91.1,155.8 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#009F21;" points="91.1,155.9 -6.9,155.6 -6.9,155.6 91.1,155.8 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#009F21;" points="91.1,155.9 -6.9,155.7 -6.9,155.6 91.1,155.9 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#009F21;" points="91.1,156 -6.9,155.7 -6.9,155.7 91.1,155.9 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#009E21;" points="91.1,156 -6.9,155.8 -6.9,155.7 91.1,156 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#009E21;" points="91.1,156.1 -6.9,155.8 -6.9,155.8 91.1,156 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#009D20;" points="91.1,156.1 -6.9,155.8 -6.9,155.8 91.1,156.1 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#009D20;" points="91.1,156.2 -6.9,155.9 -6.9,155.8 91.1,156.1 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#009D20;" points="91.1,156.2 -6.9,155.9 -6.9,155.9 91.1,156.2 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#009C20;" points="91.1,156.3 -6.9,156 -6.9,155.9 91.1,156.2 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#009C20;" points="91.1,156.3 -6.9,156 -6.9,156 91.1,156.3 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#009B20;" points="91.1,156.4 -6.9,156.1 -6.9,156 91.1,156.3 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#009B20;" points="91.1,156.4 -6.9,156.1 -6.9,156.1 91.1,156.4 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#009A20;" points="91.1,156.5 -6.9,156.2 -6.9,156.1 91.1,156.4 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#009A20;" points="91.1,156.5 -6.9,156.2 -6.9,156.2 91.1,156.5 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#009920;" points="91.1,156.5 -6.9,156.3 -6.9,156.2 91.1,156.5 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00991F;" points="91.1,156.6 -6.9,156.3 -6.9,156.3 91.1,156.5 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00981F;" points="91.1,156.6 -6.9,156.4 -6.9,156.3 91.1,156.6 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00971F;" points="91.1,156.7 -6.9,156.4 -6.9,156.4 91.1,156.6 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00971F;" points="91.1,156.7 -6.9,156.5 -6.9,156.4 91.1,156.7 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00961F;" points="91.1,156.8 -6.9,156.5 -6.9,156.5 91.1,156.7 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00961F;" points="91.1,156.8 -6.9,156.6 -6.9,156.5 91.1,156.8 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00951F;" points="91.1,156.9 -6.9,156.6 -6.9,156.6 91.1,156.8 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00941F;" points="91.1,156.9 -6.9,156.7 -6.9,156.6 91.1,156.9 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00941E;" points="91.1,157 -6.9,156.7 -6.9,156.7 91.1,156.9 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00931E;" points="91.1,157 -6.9,156.7 -6.9,156.7 91.1,157 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00921E;" points="91.1,157.1 -6.9,156.8 -6.9,156.7 91.1,157 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00921E;" points="91.1,157.1 -6.9,156.8 -6.9,156.8 91.1,157.1 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00911E;" points="91.1,157.2 -6.9,156.9 -6.9,156.8 91.1,157.1 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00901E;" points="91.1,157.2 -6.9,156.9 -6.9,156.9 91.1,157.2 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00901E;" points="91.1,157.3 -6.9,157 -6.9,156.9 91.1,157.2 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#008F1D;" points="91.1,157.3 -6.9,157 -6.9,157 91.1,157.3 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#008E1D;" points="91.1,157.4 -6.9,157.1 -6.9,157 91.1,157.3 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#008D1D;" points="91.1,157.4 -6.9,157.1 -6.9,157.1 91.1,157.4 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#008D1D;" points="91.1,157.5 -6.9,157.2 -6.9,157.1 91.1,157.4 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#008C1D;" points="91.1,157.5 -6.9,157.2 -6.9,157.2 91.1,157.5 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#008B1D;" points="91.1,157.5 -6.9,157.3 -6.9,157.2 91.1,157.5 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#008A1C;" points="91.1,157.6 -6.9,157.3 -6.9,157.3 91.1,157.5 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00891C;" points="91.1,157.6 -6.9,157.4 -6.9,157.3 91.1,157.6 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00891C;" points="91.1,157.7 -6.9,157.4 -6.9,157.4 91.1,157.6 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00881C;" points="91.1,157.7 -6.9,157.5 -6.9,157.4 91.1,157.7 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00871C;" points="91.1,157.8 -6.9,157.5 -6.9,157.5 91.1,157.7 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00861C;" points="91.1,157.8 -6.9,157.6 -6.9,157.5 91.1,157.8 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00851B;" points="91.1,157.9 -6.9,157.6 -6.9,157.6 91.1,157.8 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00841B;" points="91.1,157.9 -6.9,157.7 -6.9,157.6 91.1,157.9 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00831B;" points="91.1,158 -6.9,157.7 -6.9,157.7 91.1,157.9 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00831B;" points="91.1,158 -6.9,157.7 -6.9,157.7 91.1,158 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00821B;" points="91.1,158.1 -6.9,157.8 -6.9,157.7 91.1,158 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00811B;" points="91.1,158.1 -6.9,157.8 -6.9,157.8 91.1,158.1 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00801A;" points="91.1,158.2 -6.9,157.9 -6.9,157.8 91.1,158.1 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#007F1A;" points="91.1,158.2 -6.9,157.9 -6.9,157.9 91.1,158.2 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#007E1A;" points="91.1,158.3 -6.9,158 -6.9,157.9 91.1,158.2 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#007D1A;" points="91.1,158.3 -6.9,158 -6.9,158 91.1,158.3 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#007C1A;" points="91.1,158.4 -6.9,158.1 -6.9,158 91.1,158.3 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#007B19;" points="91.1,158.4 -6.9,158.1 -6.9,158.1 91.1,158.4 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#007A19;" points="91.1,158.4 -6.9,158.2 -6.9,158.1 91.1,158.4 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#007919;" points="91.1,158.5 -6.9,158.2 -6.9,158.2 91.1,158.4 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#007819;" points="91.1,158.5 -6.9,158.3 -6.9,158.2 91.1,158.5 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#007718;" points="91.1,158.6 -6.9,158.3 -6.9,158.3 91.1,158.5 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#007618;" points="91.1,158.6 -6.9,158.4 -6.9,158.3 91.1,158.6 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#007418;" points="91.1,158.7 -6.9,158.4 -6.9,158.4 91.1,158.6 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#007318;" points="91.1,158.7 -6.9,158.5 -6.9,158.4 91.1,158.7 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#007218;" points="91.1,158.8 -6.9,158.5 -6.9,158.5 91.1,158.7 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#007117;" points="91.1,158.8 -6.9,158.6 -6.9,158.5 91.1,158.8 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#007017;" points="91.1,158.9 -6.9,158.6 -6.9,158.6 91.1,158.8 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#006F17;" points="91.1,158.9 -6.9,158.6 -6.9,158.6 91.1,158.9 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#006E17;" points="91.1,159 -6.9,158.7 -6.9,158.6 91.1,158.9 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#006C16;" points="91.1,159 -6.9,158.7 -6.9,158.7 91.1,159 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#006B16;" points="91.1,159.1 -6.9,158.8 -6.9,158.7 91.1,159 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#006A16;" points="91.1,159.1 -6.9,158.8 -6.9,158.8 91.1,159.1 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#006916;" points="91.1,159.2 -6.9,158.9 -6.9,158.8 91.1,159.1 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#006815;" points="91.1,159.2 -6.9,158.9 -6.9,158.9 91.1,159.2 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#006615;" points="91.1,159.3 -6.9,159 -6.9,158.9 91.1,159.2 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#006515;" points="91.1,159.3 -6.9,159 -6.9,159 91.1,159.3 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#006415;" points="91.1,159.4 -6.9,159.1 -6.9,159 91.1,159.3 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#006314;" points="91.1,159.4 -6.9,159.1 -6.9,159.1 91.1,159.4 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#006114;" points="91.1,159.4 -6.9,159.2 -6.9,159.1 91.1,159.4 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#006014;" points="91.1,159.5 -6.9,159.2 -6.9,159.2 91.1,159.4 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#005F14;" points="91.1,159.5 -6.9,159.3 -6.9,159.2 91.1,159.5 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#005D13;" points="91.1,159.6 -6.9,159.3 -6.9,159.3 91.1,159.5 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#005C13;" points="91.1,159.6 -6.9,159.4 -6.9,159.3 91.1,159.6 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#005B13;" points="91.1,159.7 -6.9,159.4 -6.9,159.4 91.1,159.6 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#005912;" points="91.1,159.7 -6.9,159.5 -6.9,159.4 91.1,159.7 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#005812;" points="91.1,159.8 -6.9,159.5 -6.9,159.5 91.1,159.7 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#005712;" points="91.1,159.8 -6.9,159.6 -6.9,159.5 91.1,159.8 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#005512;" points="91.1,159.9 -6.9,159.6 -6.9,159.6 91.1,159.8 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#005411;" points="91.1,159.9 -6.9,159.6 -6.9,159.6 91.1,159.9 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#005211;" points="91.1,160 -6.9,159.7 -6.9,159.6 91.1,159.9 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#005111;" points="91.1,160 -6.9,159.7 -6.9,159.7 91.1,160 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#005010;" points="91.1,160.1 -6.9,159.8 -6.9,159.7 91.1,160 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#004E10;" points="91.1,160.1 -6.9,159.8 -6.9,159.8 91.1,160.1 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#004D10;" points="91.1,160.2 -6.9,159.9 -6.9,159.8 91.1,160.1 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#004B0F;" points="91.1,160.2 -6.9,159.9 -6.9,159.9 91.1,160.2 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#004A0F;" points="91.1,160.3 -6.9,160 -6.9,159.9 91.1,160.2 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00480F;" points="91.1,160.3 -6.9,160 -6.9,160 91.1,160.3 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00470F;" points="91.1,160.3 -6.9,160.1 -6.9,160 91.1,160.3 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00450E;" points="91.1,160.4 -6.9,160.1 -6.9,160.1 91.1,160.3 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00440E;" points="91.1,160.4 -6.9,160.2 -6.9,160.1 91.1,160.4 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00420E;" points="91.1,160.5 -6.9,160.2 -6.9,160.2 91.1,160.4 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00410D;" points="91.1,160.5 -6.9,160.3 -6.9,160.2 91.1,160.5 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#003F0D;" points="91.1,160.6 -6.9,160.3 -6.9,160.3 91.1,160.5 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#003D0D;" points="91.1,160.6 -6.9,160.4 -6.9,160.3 91.1,160.6 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#003C0C;" points="91.1,160.7 -6.9,160.4 -6.9,160.4 91.1,160.6 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#003A0C;" points="91.1,160.7 -6.9,160.5 -6.9,160.4 91.1,160.7 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00390C;" points="91.1,160.8 -6.9,160.5 -6.9,160.5 91.1,160.7 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00370B;" points="91.1,160.8 -6.9,160.5 -6.9,160.5 91.1,160.8 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00350B;" points="91.1,160.9 -6.9,160.6 -6.9,160.5 91.1,160.8 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00340B;" points="91.1,160.9 -6.9,160.6 -6.9,160.6 91.1,160.9 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00320A;" points="91.1,161 -6.9,160.7 -6.9,160.6 91.1,160.9 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#00300A;" points="91.1,161 -6.9,160.7 -6.9,160.7 91.1,161 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#002E0A;" points="91.1,161.1 -6.9,160.8 -6.9,160.7 91.1,161 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#002D09;" points="91.1,161.1 -6.9,160.8 -6.9,160.8 91.1,161.1 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#002B09;" points="91.1,161.2 -6.9,160.9 -6.9,160.8 91.1,161.1 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#002909;" points="91.1,161.2 -6.9,160.9 -6.9,160.9 91.1,161.2 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#002808;" points="91.1,161.3 -6.9,161 -6.9,160.9 91.1,161.2 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#002608;" points="91.1,161.3 -6.9,161 -6.9,161 91.1,161.3 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#002407;" points="91.1,161.3 -6.9,161.1 -6.9,161 91.1,161.3 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#002207;" points="91.1,161.4 -6.9,161.1 -6.9,161.1 91.1,161.3 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#002007;" points="91.1,161.4 -6.9,161.2 -6.9,161.1 91.1,161.4 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#001F06;" points="91.1,161.5 -6.9,161.2 -6.9,161.2 91.1,161.4 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#001D06;" points="91.1,161.5 -6.9,161.3 -6.9,161.2 91.1,161.5 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#001B06;" points="91.1,161.6 -6.9,161.3 -6.9,161.3 91.1,161.5 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#001905;" points="91.1,161.6 -6.9,161.4 -6.9,161.3 91.1,161.6 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#001705;" points="91.1,161.7 -6.9,161.4 -6.9,161.4 91.1,161.6 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#001504;" points="91.1,161.7 -6.9,161.5 -6.9,161.4 91.1,161.7 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#001404;" points="91.1,161.8 -6.9,161.5 -6.9,161.5 91.1,161.7 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#001204;" points="91.1,161.8 -6.9,161.5 -6.9,161.5 91.1,161.8 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#001003;" points="91.1,161.9 -6.9,161.6 -6.9,161.5 91.1,161.8 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#000E03;" points="91.1,161.9 -6.9,161.6 -6.9,161.6 91.1,161.9 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#000C02;" points="91.1,162 -6.9,161.7 -6.9,161.6 91.1,161.9 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#000A02;" points="91.1,162 -6.9,161.7 -6.9,161.7 91.1,162 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#000802;" points="91.1,162.1 -6.9,161.8 -6.9,161.7 91.1,162 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#000601;" points="91.1,162.1 -6.9,161.8 -6.9,161.8 91.1,162.1 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#000401;" points="91.1,162.2 -6.9,161.9 -6.9,161.8 91.1,162.1 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);fill:#000200;" points="91.1,162.2 -6.9,161.9 -6.9,161.9 91.1,162.2 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);" points="91.1,162.2 -6.9,162 -6.9,161.9 91.1,162.2 			"/>
+			<polygon style="clip-path:url(#SVGID_1_);" points="-6.9,162 91.1,162.2 91.1,164.9 -6.9,164.9 			"/>
+		</g>
+	</g>
+	<g>
+		
+			<ellipse transform="matrix(0.601 -0.7993 0.7993 0.601 -84.9977 142.7483)" class="st170" cx="100.5" cy="156.5" rx="62" ry="39.2"/>
+	</g>
+	<g>
+		
+			<ellipse transform="matrix(0.601 -0.7993 0.7993 0.601 -62.7566 188.5047)" class="st170" cx="157.4" cy="157.1" rx="62" ry="39.2"/>
+	</g>
+	<g>
+		<g>
+			<defs>
+				
+					<ellipse id="SVGID_10_" transform="matrix(0.601 -0.7993 0.7993 0.601 -39.7141 233.2781)" cx="213.8" cy="156.4" rx="62" ry="39.2"/>
+			</defs>
+			<clipPath id="SVGID_2_">
+				<use xlink:href="#SVGID_10_"  style="overflow:visible;"/>
+			</clipPath>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#FF1C00;" points="191.9,95.4 159.2,162.6 159.2,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#FF1C00;" points="223.4,95.4 168.2,208.8 159.2,204.4 159.2,162.6 191.9,95.4 			
+				"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#FF1C00;" points="223.5,95.4 168.3,208.9 168.2,208.8 223.4,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#FF1C00;" points="223.6,95.4 168.4,208.9 168.3,208.9 223.5,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#FF1C00;" points="223.8,95.4 168.5,209 168.4,208.9 223.6,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#FF1C00;" points="223.9,95.4 168.7,209 168.5,209 223.8,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#FF1C00;" points="224.1,95.4 168.8,209.1 168.7,209 223.9,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#FF1C00;" points="224.2,95.4 168.9,209.1 168.8,209.1 224.1,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#FF1C00;" points="224.3,95.4 169,209.2 168.9,209.1 224.2,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#FF1C00;" points="224.5,95.4 169.1,209.3 169,209.2 224.3,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#FF1C00;" points="224.6,95.4 169.2,209.3 169.1,209.3 224.5,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#FF1C00;" points="224.8,95.4 169.3,209.4 169.2,209.3 224.6,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#FF1C00;" points="224.9,95.4 169.5,209.4 169.3,209.4 224.8,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#FF1C00;" points="225,95.4 169.6,209.5 169.5,209.4 224.9,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#FE1C00;" points="225.2,95.4 169.7,209.5 169.6,209.5 225,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#FE1C00;" points="225.3,95.4 169.8,209.6 169.7,209.5 225.2,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#FE1C00;" points="225.5,95.4 169.9,209.6 169.8,209.6 225.3,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#FE1C00;" points="225.6,95.4 170,209.7 169.9,209.6 225.5,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#FE1C00;" points="225.7,95.4 170.1,209.7 170,209.7 225.6,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#FE1C00;" points="225.9,95.4 170.2,209.8 170.1,209.7 225.7,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#FE1C00;" points="226,95.4 170.4,209.9 170.2,209.8 225.9,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#FE1C00;" points="226.2,95.4 170.5,209.9 170.4,209.9 226,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#FD1C00;" points="226.3,95.4 170.6,210 170.5,209.9 226.2,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#FD1C00;" points="226.4,95.4 170.7,210 170.6,210 226.3,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#FD1C00;" points="226.6,95.4 170.8,210.1 170.7,210 226.4,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#FD1C00;" points="226.7,95.4 170.9,210.1 170.8,210.1 226.6,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#FD1C00;" points="226.9,95.4 171,210.2 170.9,210.1 226.7,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#FD1C00;" points="227,95.4 171.2,210.2 171,210.2 226.9,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#FC1C00;" points="227.2,95.4 171.3,210.3 171.2,210.2 227,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#FC1C00;" points="227.3,95.4 171.4,210.4 171.3,210.3 227.2,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#FC1C00;" points="227.4,95.4 171.5,210.4 171.4,210.4 227.3,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#FC1C00;" points="227.6,95.4 171.6,210.5 171.5,210.4 227.4,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#FB1C00;" points="227.7,95.4 171.7,210.5 171.6,210.5 227.6,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#FB1C00;" points="227.9,95.4 171.8,210.6 171.7,210.5 227.7,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#FB1C00;" points="228,95.4 171.9,210.6 171.8,210.6 227.9,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#FB1C00;" points="228.1,95.4 172.1,210.7 171.9,210.6 228,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#FA1B00;" points="228.3,95.4 172.2,210.7 172.1,210.7 228.1,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#FA1B00;" points="228.4,95.4 172.3,210.8 172.2,210.7 228.3,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#FA1B00;" points="228.6,95.4 172.4,210.9 172.3,210.8 228.4,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#FA1B00;" points="228.7,95.4 172.5,210.9 172.4,210.9 228.6,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#F91B00;" points="228.8,95.4 172.6,211 172.5,210.9 228.7,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#F91B00;" points="229,95.4 172.7,211 172.6,211 228.8,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#F91B00;" points="229.1,95.4 172.9,211.1 172.7,211 229,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#F81B00;" points="229.3,95.4 173,211.1 172.9,211.1 229.1,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#F81B00;" points="229.4,95.4 173.1,211.2 173,211.1 229.3,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#F81B00;" points="229.5,95.4 173.2,211.2 173.1,211.2 229.4,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#F71B00;" points="229.7,95.4 173.3,211.3 173.2,211.2 229.5,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#F71B00;" points="229.8,95.4 173.4,211.3 173.3,211.3 229.7,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#F71B00;" points="230,95.4 173.5,211.4 173.4,211.3 229.8,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#F61B00;" points="230.1,95.4 173.6,211.5 173.5,211.4 230,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#F61B00;" points="230.2,95.4 173.8,211.5 173.6,211.5 230.1,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#F61B00;" points="230.4,95.4 173.9,211.6 173.8,211.5 230.2,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#F51B00;" points="230.5,95.4 174,211.6 173.9,211.6 230.4,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#F51B00;" points="230.7,95.4 174.1,211.7 174,211.6 230.5,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#F41B00;" points="230.8,95.4 174.2,211.7 174.1,211.7 230.7,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#F41B00;" points="230.9,95.4 174.3,211.8 174.2,211.7 230.8,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#F31B00;" points="231.1,95.4 174.4,211.8 174.3,211.8 230.9,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#F31B00;" points="231.2,95.4 174.6,211.9 174.4,211.8 231.1,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#F31B00;" points="231.4,95.4 174.7,212 174.6,211.9 231.2,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#F21B00;" points="231.5,95.4 174.8,212 174.7,212 231.4,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#F21B00;" points="231.6,95.4 174.9,212.1 174.8,212 231.5,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#F11A00;" points="231.8,95.4 175,212.1 174.9,212.1 231.6,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#F11A00;" points="231.9,95.4 175.1,212.2 175,212.1 231.8,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#F01A00;" points="232.1,95.4 175.2,212.2 175.1,212.2 231.9,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#F01A00;" points="232.2,95.4 175.3,212.3 175.2,212.2 232.1,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#EF1A00;" points="232.3,95.4 175.5,212.3 175.3,212.3 232.2,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#EF1A00;" points="232.5,95.4 175.6,212.4 175.5,212.3 232.3,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#EE1A00;" points="232.6,95.4 175.7,212.4 175.6,212.4 232.5,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#EE1A00;" points="232.8,95.4 175.8,212.5 175.7,212.4 232.6,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#ED1A00;" points="232.9,95.4 175.9,212.6 175.8,212.5 232.8,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#ED1A00;" points="233,95.4 176,212.6 175.9,212.6 232.9,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#EC1A00;" points="233.2,95.4 176.1,212.7 176,212.6 233,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#EC1A00;" points="233.3,95.4 176.3,212.7 176.1,212.7 233.2,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#EB1A00;" points="233.5,95.4 176.4,212.8 176.3,212.7 233.3,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#EB1A00;" points="233.6,95.4 176.5,212.8 176.4,212.8 233.5,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#EA1A00;" points="233.7,95.4 176.6,212.9 176.5,212.8 233.6,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#E91A00;" points="233.9,95.4 176.7,212.9 176.6,212.9 233.7,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#E91A00;" points="234,95.4 176.8,213 176.7,212.9 233.9,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#E81900;" points="234.2,95.4 176.9,213.1 176.8,213 234,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#E81900;" points="234.3,95.4 177,213.1 176.9,213.1 234.2,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#E71900;" points="234.4,95.4 177.2,213.2 177,213.1 234.3,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#E61900;" points="234.6,95.4 177.3,213.2 177.2,213.2 234.4,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#E61900;" points="234.7,95.4 177.4,213.3 177.3,213.2 234.6,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#E51900;" points="234.9,95.4 177.5,213.3 177.4,213.3 234.7,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#E41900;" points="235,95.4 177.6,213.4 177.5,213.3 234.9,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#E41900;" points="235.1,95.4 177.7,213.4 177.6,213.4 235,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#E31900;" points="235.3,95.4 177.8,213.5 177.7,213.4 235.1,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#E21900;" points="235.4,95.4 178,213.6 177.8,213.5 235.3,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#E21900;" points="235.6,95.4 178.1,213.6 178,213.6 235.4,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#E11900;" points="235.7,95.4 178.2,213.7 178.1,213.6 235.6,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#E01900;" points="235.8,95.4 178.3,213.7 178.2,213.7 235.7,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#E01900;" points="236,95.4 178.4,213.8 178.3,213.7 235.8,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#DF1800;" points="236.1,95.4 178.5,213.8 178.4,213.8 236,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#DE1800;" points="236.3,95.4 178.6,213.9 178.5,213.8 236.1,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#DE1800;" points="236.4,95.4 178.7,213.9 178.6,213.9 236.3,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#DD1800;" points="236.5,95.4 178.9,214 178.7,213.9 236.4,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#DC1800;" points="236.7,95.4 179,214 178.9,214 236.5,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#DB1800;" points="236.8,95.4 179.1,214.1 179,214 236.7,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#DB1800;" points="237,95.4 179.2,214.2 179.1,214.1 236.8,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#DA1800;" points="237.1,95.4 179.3,214.2 179.2,214.2 237,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#D91800;" points="237.2,95.4 179.4,214.3 179.3,214.2 237.1,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#D81800;" points="237.4,95.4 179.5,214.3 179.4,214.3 237.2,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#D81800;" points="237.5,95.4 179.7,214.4 179.5,214.3 237.4,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#D71800;" points="237.7,95.4 179.8,214.4 179.7,214.4 237.5,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#D61700;" points="237.8,95.4 179.9,214.5 179.8,214.4 237.7,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#D51700;" points="237.9,95.4 180,214.5 179.9,214.5 237.8,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#D41700;" points="238.1,95.4 180.1,214.6 180,214.5 237.9,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#D31700;" points="238.2,95.4 180.2,214.7 180.1,214.6 238.1,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#D31700;" points="238.4,95.4 180.3,214.7 180.2,214.7 238.2,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#D21700;" points="238.5,95.4 180.4,214.8 180.3,214.7 238.4,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#D11700;" points="238.6,95.4 180.6,214.8 180.4,214.8 238.5,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#D01700;" points="238.8,95.4 180.7,214.9 180.6,214.8 238.6,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#CF1700;" points="238.9,95.4 180.8,214.9 180.7,214.9 238.8,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#CE1700;" points="239.1,95.4 180.9,215 180.8,214.9 238.9,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#CD1700;" points="239.2,95.4 181,215 180.9,215 239.1,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#CD1600;" points="239.3,95.4 181.1,215.1 181,215 239.2,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#CC1600;" points="239.5,95.4 181.2,215.2 181.1,215.1 239.3,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#CB1600;" points="239.6,95.4 181.4,215.2 181.2,215.2 239.5,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#CA1600;" points="239.8,95.4 181.5,215.3 181.4,215.2 239.6,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#C91600;" points="239.9,95.4 181.6,215.3 181.5,215.3 239.8,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#C81600;" points="240,95.4 181.7,215.4 181.6,215.3 239.9,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#C71600;" points="240.2,95.4 181.8,215.4 181.7,215.4 240,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#C61600;" points="240.3,95.4 181.9,215.5 181.8,215.4 240.2,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#C51600;" points="240.5,95.4 182,215.5 181.9,215.5 240.3,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#C41600;" points="240.6,95.4 182.1,215.6 182,215.5 240.5,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#C31500;" points="240.7,95.4 182.3,215.6 182.1,215.6 240.6,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#C21500;" points="240.9,95.4 182.4,215.7 182.3,215.6 240.7,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#C11500;" points="241,95.4 182.5,215.8 182.4,215.7 240.9,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#C01500;" points="241.2,95.4 182.6,215.8 182.5,215.8 241,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#BF1500;" points="241.3,95.4 182.7,215.9 182.6,215.8 241.2,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#BE1500;" points="241.4,95.4 182.8,215.9 182.7,215.9 241.3,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#BD1500;" points="241.6,95.4 182.9,216 182.8,215.9 241.4,95.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#BC1500;" points="241.7,95.4 241.7,95.4 183.1,216 182.9,216 241.6,95.4 			"/>
+			
+				<rect x="145.4" y="155.7" transform="matrix(0.4375 -0.8992 0.8992 0.4375 -20.5719 278.6488)" style="clip-path:url(#SVGID_2_);fill:#BB1500;" width="134.1" height="0.1"/>
+			
+				<rect x="145.5" y="155.8" transform="matrix(0.4375 -0.8992 0.8992 0.4375 -20.5582 278.7809)" style="clip-path:url(#SVGID_2_);fill:#BA1400;" width="134.1" height="0.1"/>
+			
+				<rect x="145.6" y="155.8" transform="matrix(0.4375 -0.8992 0.8992 0.4375 -20.5428 278.9162)" style="clip-path:url(#SVGID_2_);fill:#B91400;" width="134.1" height="0.1"/>
+			
+				<rect x="145.7" y="155.9" transform="matrix(0.4375 -0.8992 0.8992 0.4375 -20.5295 279.0475)" style="clip-path:url(#SVGID_2_);fill:#B81400;" width="134.1" height="0.1"/>
+			
+				<rect x="145.8" y="155.9" transform="matrix(0.4375 -0.8992 0.8992 0.4375 -20.5157 279.1796)" style="clip-path:url(#SVGID_2_);fill:#B71400;" width="134.1" height="0.1"/>
+			
+				<rect x="146" y="156" transform="matrix(0.4375 -0.8992 0.8992 0.4375 -20.5011 279.3133)" style="clip-path:url(#SVGID_2_);fill:#B61400;" width="134.1" height="0.1"/>
+			
+				<rect x="146.1" y="156" transform="matrix(0.4375 -0.8992 0.8992 0.4375 -20.4874 279.4454)" style="clip-path:url(#SVGID_2_);fill:#B51400;" width="134.1" height="0.1"/>
+			
+				<rect x="146.2" y="156.1" transform="matrix(0.4375 -0.8992 0.8992 0.4375 -20.4728 279.5791)" style="clip-path:url(#SVGID_2_);fill:#B41400;" width="134.1" height="0.1"/>
+			
+				<rect x="146.3" y="156.1" transform="matrix(0.4375 -0.8992 0.8992 0.4375 -20.4591 279.7112)" style="clip-path:url(#SVGID_2_);fill:#B31400;" width="134.1" height="0.1"/>
+			
+				<rect x="146.4" y="156.2" transform="matrix(0.4375 -0.8992 0.8992 0.4375 -20.4445 279.8449)" style="clip-path:url(#SVGID_2_);fill:#B21300;" width="134.1" height="0.1"/>
+			
+				<rect x="146.5" y="156.3" transform="matrix(0.4375 -0.8992 0.8992 0.4375 -20.4308 279.9771)" style="clip-path:url(#SVGID_2_);fill:#B01300;" width="134.1" height="0.1"/>
+			
+				<rect x="146.6" y="156.3" transform="matrix(0.4375 -0.8992 0.8992 0.4375 -20.4153 280.1123)" style="clip-path:url(#SVGID_2_);fill:#AF1300;" width="134.1" height="0.1"/>
+			
+				<rect x="146.8" y="156.4" transform="matrix(0.4375 -0.8992 0.8992 0.4375 -20.402 280.2437)" style="clip-path:url(#SVGID_2_);fill:#AE1300;" width="134.1" height="0.1"/>
+			
+				<rect x="146.9" y="156.4" transform="matrix(0.4375 -0.8992 0.8992 0.4375 -20.3883 280.3758)" style="clip-path:url(#SVGID_2_);fill:#AD1300;" width="134.1" height="0.1"/>
+			
+				<rect x="147" y="156.5" transform="matrix(0.4375 -0.8992 0.8992 0.4375 -20.3737 280.5094)" style="clip-path:url(#SVGID_2_);fill:#AC1300;" width="134.1" height="0.1"/>
+			
+				<rect x="147.1" y="156.5" transform="matrix(0.4375 -0.8992 0.8992 0.4375 -20.36 280.6416)" style="clip-path:url(#SVGID_2_);fill:#AB1300;" width="134.1" height="0.1"/>
+			
+				<rect x="147.2" y="156.6" transform="matrix(0.4375 -0.8992 0.8992 0.4375 -20.3454 280.7752)" style="clip-path:url(#SVGID_2_);fill:#AA1300;" width="134.1" height="0.1"/>
+			
+				<rect x="147.3" y="156.6" transform="matrix(0.4375 -0.8992 0.8992 0.4375 -20.3317 280.9073)" style="clip-path:url(#SVGID_2_);fill:#A81200;" width="134.1" height="0.1"/>
+			
+				<rect x="147.4" y="156.7" transform="matrix(0.4375 -0.8992 0.8992 0.4375 -20.3171 281.041)" style="clip-path:url(#SVGID_2_);fill:#A71200;" width="134.1" height="0.1"/>
+			
+				<rect x="147.5" y="156.8" transform="matrix(0.4375 -0.8992 0.8992 0.4375 -20.3029 281.174)" style="clip-path:url(#SVGID_2_);fill:#A61200;" width="134.1" height="0.1"/>
+			
+				<rect x="147.7" y="156.8" transform="matrix(0.4375 -0.8992 0.8992 0.4375 -20.2883 281.3077)" style="clip-path:url(#SVGID_2_);fill:#A51200;" width="134.1" height="0.1"/>
+			
+				<rect x="147.8" y="156.9" transform="matrix(0.4375 -0.8992 0.8992 0.4375 -20.2746 281.4398)" style="clip-path:url(#SVGID_2_);fill:#A41200;" width="134.1" height="0.1"/>
+			
+				<rect x="147.9" y="156.9" transform="matrix(0.4375 -0.8992 0.8992 0.4375 -20.2609 281.5719)" style="clip-path:url(#SVGID_2_);fill:#A31200;" width="134.1" height="0.1"/>
+			
+				<rect x="148" y="157" transform="matrix(0.4375 -0.8992 0.8992 0.4375 -20.2463 281.7056)" style="clip-path:url(#SVGID_2_);fill:#A11200;" width="134.1" height="0.1"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#A01200;" points="244.4,96.8 244.6,96.8 185.9,217.4 185.8,217.4 185.8,217.4 			
+				"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#9F1100;" points="244.6,96.8 244.7,96.9 186,217.4 185.9,217.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#9E1100;" points="244.7,96.9 244.8,96.9 186.2,217.4 186,217.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#9C1100;" points="244.8,96.9 244.9,97 186.3,217.4 186.2,217.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#9B1100;" points="244.9,97 245,97 186.5,217.4 186.3,217.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#9A1100;" points="245,97 245.1,97.1 186.6,217.4 186.5,217.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#991100;" points="245.1,97.1 245.2,97.2 186.7,217.4 186.6,217.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#971100;" points="245.2,97.2 245.4,97.2 186.9,217.4 186.7,217.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#961000;" points="245.4,97.2 245.5,97.3 187,217.4 186.9,217.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#951000;" points="245.5,97.3 245.6,97.3 187.2,217.4 187,217.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#931000;" points="245.6,97.3 245.7,97.4 187.3,217.4 187.2,217.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#921000;" points="245.7,97.4 245.8,97.4 187.4,217.4 187.3,217.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#911000;" points="245.8,97.4 245.9,97.5 187.6,217.4 187.4,217.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#8F1000;" points="245.9,97.5 246,97.5 187.7,217.4 187.6,217.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#8E1000;" points="246,97.5 246.1,97.6 187.9,217.4 187.7,217.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#8D0F00;" points="246.1,97.6 246.3,97.7 188,217.4 187.9,217.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#8B0F00;" points="246.3,97.7 246.4,97.7 188.1,217.4 188,217.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#8A0F00;" points="246.4,97.7 246.5,97.8 188.3,217.4 188.1,217.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#890F00;" points="246.5,97.8 246.6,97.8 188.4,217.4 188.3,217.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#870F00;" points="246.6,97.8 246.7,97.9 188.6,217.4 188.4,217.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#860F00;" points="246.7,97.9 246.8,97.9 188.7,217.4 188.6,217.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#850F00;" points="246.8,97.9 246.9,98 188.8,217.4 188.7,217.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#830E00;" points="246.9,98 247,98 189,217.4 188.8,217.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#820E00;" points="247,98 247.2,98.1 189.1,217.4 189,217.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#800E00;" points="247.2,98.1 247.3,98.1 189.3,217.4 189.1,217.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#7F0E00;" points="247.3,98.1 247.4,98.2 189.4,217.4 189.3,217.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#7E0E00;" points="247.4,98.2 247.5,98.3 189.5,217.4 189.4,217.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#7C0E00;" points="247.5,98.3 247.6,98.3 189.7,217.4 189.5,217.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#7B0D00;" points="247.6,98.3 247.7,98.4 189.8,217.4 189.7,217.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#790D00;" points="247.7,98.4 247.8,98.4 190,217.4 189.8,217.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#780D00;" points="247.8,98.4 248,98.5 190.1,217.4 190,217.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#760D00;" points="248,98.5 248.1,98.5 190.2,217.4 190.1,217.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#750D00;" points="248.1,98.5 248.2,98.6 190.4,217.4 190.2,217.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#730D00;" points="248.2,98.6 248.3,98.6 190.5,217.4 190.4,217.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#720D00;" points="248.3,98.6 248.4,98.7 190.7,217.4 190.5,217.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#700C00;" points="248.4,98.7 248.5,98.8 190.8,217.4 190.7,217.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#6F0C00;" points="248.5,98.8 248.6,98.8 190.9,217.4 190.8,217.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#6D0C00;" points="248.6,98.8 248.7,98.9 191.1,217.4 190.9,217.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#6C0C00;" points="248.7,98.9 248.9,98.9 191.2,217.4 191.1,217.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#6A0C00;" points="248.9,98.9 249,99 191.4,217.4 191.2,217.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#690C00;" points="249,99 249.1,99 191.5,217.4 191.4,217.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#670B00;" points="249.1,99 249.2,99.1 191.6,217.4 191.5,217.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#660B00;" points="249.2,99.1 249.3,99.1 191.8,217.4 191.6,217.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#640B00;" points="249.3,99.1 249.4,99.2 191.9,217.4 191.8,217.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#630B00;" points="249.4,99.2 249.5,99.3 192.1,217.4 191.9,217.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#610B00;" points="249.5,99.3 249.7,99.3 192.2,217.4 192.1,217.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#5F0A00;" points="249.7,99.3 249.8,99.4 192.3,217.4 192.2,217.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#5E0A00;" points="249.8,99.4 249.9,99.4 192.5,217.4 192.3,217.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#5C0A00;" points="249.9,99.4 250,99.5 192.6,217.4 192.5,217.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#5B0A00;" points="250,99.5 250.1,99.5 192.8,217.4 192.6,217.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#590A00;" points="250.1,99.5 250.2,99.6 192.9,217.4 192.8,217.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#570A00;" points="250.2,99.6 250.3,99.6 193,217.4 192.9,217.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#560900;" points="250.3,99.6 250.4,99.7 193.2,217.4 193,217.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#540900;" points="250.4,99.7 250.6,99.7 193.3,217.4 193.2,217.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#520900;" points="250.6,99.7 250.7,99.8 193.5,217.4 193.3,217.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#510900;" points="250.7,99.8 250.8,99.9 193.6,217.4 193.5,217.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#4F0900;" points="250.8,99.9 250.9,99.9 193.7,217.4 193.6,217.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#4D0800;" points="250.9,99.9 251,100 193.9,217.4 193.7,217.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#4C0800;" points="251,100 251.1,100 194,217.4 193.9,217.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#4A0800;" points="251.1,100 251.2,100.1 194.2,217.4 194,217.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#480800;" points="251.2,100.1 251.4,100.1 194.3,217.4 194.2,217.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#470800;" points="251.4,100.1 251.5,100.2 194.4,217.4 194.3,217.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#450800;" points="251.5,100.2 251.6,100.2 194.6,217.4 194.4,217.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#430700;" points="251.6,100.2 251.7,100.3 194.7,217.4 194.6,217.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#410700;" points="251.7,100.3 251.8,100.4 194.9,217.4 194.7,217.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#400700;" points="251.8,100.4 251.9,100.4 195,217.4 194.9,217.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#3E0700;" points="251.9,100.4 252,100.5 195.2,217.4 195,217.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#3C0700;" points="252,100.5 252.1,100.5 195.3,217.4 195.2,217.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#3A0600;" points="252.1,100.5 252.3,100.6 195.4,217.4 195.3,217.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#390600;" points="252.3,100.6 252.4,100.6 195.6,217.4 195.4,217.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#370600;" points="252.4,100.6 252.5,100.7 195.7,217.4 195.6,217.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#350600;" points="252.5,100.7 252.6,100.7 195.9,217.4 195.7,217.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#330600;" points="252.6,100.7 252.7,100.8 196,217.4 195.9,217.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#320500;" points="252.7,100.8 252.8,100.9 196.1,217.4 196,217.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#300500;" points="252.8,100.9 252.9,100.9 196.3,217.4 196.1,217.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#2E0500;" points="252.9,100.9 253.1,101 196.4,217.4 196.3,217.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#2C0500;" points="253.1,101 253.2,101 196.6,217.4 196.4,217.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#2A0500;" points="253.2,101 253.3,101.1 196.7,217.4 196.6,217.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#280400;" points="253.3,101.1 253.4,101.1 196.8,217.4 196.7,217.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#270400;" points="253.4,101.1 253.5,101.2 197,217.4 196.8,217.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#250400;" points="253.5,101.2 253.6,101.2 197.1,217.4 197,217.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#230400;" points="253.6,101.2 253.7,101.3 197.3,217.4 197.1,217.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#210400;" points="253.7,101.3 253.8,101.3 197.4,217.4 197.3,217.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#1F0300;" points="253.8,101.3 254,101.4 197.5,217.4 197.4,217.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#1D0300;" points="254,101.4 254.1,101.5 197.7,217.4 197.5,217.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#1B0300;" points="254.1,101.5 254.2,101.5 197.8,217.4 197.7,217.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#190300;" points="254.2,101.5 254.3,101.6 198,217.4 197.8,217.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#180300;" points="254.3,101.6 254.4,101.6 198.1,217.4 198,217.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#160200;" points="254.4,101.6 254.5,101.7 198.2,217.4 198.1,217.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#140200;" points="254.5,101.7 254.6,101.7 198.4,217.4 198.2,217.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#120200;" points="254.6,101.7 254.8,101.8 198.5,217.4 198.4,217.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#100200;" points="254.8,101.8 254.9,101.8 198.7,217.4 198.5,217.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#0E0200;" points="254.9,101.8 255,101.9 198.8,217.4 198.7,217.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#0C0100;" points="255,101.9 255.1,102 198.9,217.4 198.8,217.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#0A0100;" points="255.1,102 255.2,102 199.1,217.4 198.9,217.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#080100;" points="255.2,102 255.3,102.1 199.2,217.4 199.1,217.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#060100;" points="255.3,102.1 255.4,102.1 199.4,217.4 199.2,217.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#040000;" points="255.4,102.1 255.5,102.2 199.5,217.4 199.4,217.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#020000;" points="255.5,102.2 255.7,102.2 199.6,217.4 199.5,217.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);" points="255.7,102.2 255.8,102.3 199.8,217.4 199.6,217.4 			"/>
+			<polygon style="clip-path:url(#SVGID_2_);" points="255.8,102.3 268.4,108.4 268.4,217.4 199.8,217.4 			"/>
+		</g>
+	</g>
+	<g>
+		
+			<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="114.3469" y1="150.9849" x2="149.6354" y2="150.9849" gradientTransform="matrix(0.9999 -1.224465e-02 1.224465e-02 0.9999 -5.7745 7.1085)">
+			<stop  offset="3.626578e-03" style="stop-color:#FFFFFF"/>
+			<stop  offset="8.962225e-02" style="stop-color:#FEF2C1"/>
+			<stop  offset="0.1782" style="stop-color:#FCE689"/>
+			<stop  offset="0.2643" style="stop-color:#FBDC5A"/>
+			<stop  offset="0.3458" style="stop-color:#FAD435"/>
+			<stop  offset="0.4215" style="stop-color:#FACF1B"/>
+			<stop  offset="0.4894" style="stop-color:#F9CB0C"/>
+			<stop  offset="0.5427" style="stop-color:#F9CA06"/>
+			<stop  offset="0.6007" style="stop-color:#F9CB0A"/>
+			<stop  offset="0.6588" style="stop-color:#F9CD16"/>
+			<stop  offset="0.7169" style="stop-color:#FAD22A"/>
+			<stop  offset="0.7752" style="stop-color:#FBD846"/>
+			<stop  offset="0.8335" style="stop-color:#FBDF6B"/>
+			<stop  offset="0.8919" style="stop-color:#FCE997"/>
+			<stop  offset="0.9492" style="stop-color:#FEF4CB"/>
+			<stop  offset="1" style="stop-color:#FFFFFF"/>
+		</linearGradient>
+		<path class="st2" d="M112.2,198.9c-9.8-56.6,31.4-84.6,31.9-84.9l1.1,1.7c-0.4,0.3-40.5,27.6-31,82.9L112.2,198.9z"/>
+	</g>
+	<g>
+		
+			<linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="170.0459" y1="151.6353" x2="205.3324" y2="151.6353" gradientTransform="matrix(0.9999 -1.224465e-02 1.224465e-02 0.9999 -5.7745 7.1085)">
+			<stop  offset="3.626578e-03" style="stop-color:#FFFFFF"/>
+			<stop  offset="8.962225e-02" style="stop-color:#FEF2C1"/>
+			<stop  offset="0.1782" style="stop-color:#FCE689"/>
+			<stop  offset="0.2643" style="stop-color:#FBDC5A"/>
+			<stop  offset="0.3458" style="stop-color:#FAD435"/>
+			<stop  offset="0.4215" style="stop-color:#FACF1B"/>
+			<stop  offset="0.4894" style="stop-color:#F9CB0C"/>
+			<stop  offset="0.5427" style="stop-color:#F9CA06"/>
+			<stop  offset="0.6007" style="stop-color:#F9CB0A"/>
+			<stop  offset="0.6588" style="stop-color:#F9CD16"/>
+			<stop  offset="0.7169" style="stop-color:#FAD22A"/>
+			<stop  offset="0.7752" style="stop-color:#FBD846"/>
+			<stop  offset="0.8335" style="stop-color:#FBDF6B"/>
+			<stop  offset="0.8919" style="stop-color:#FCE997"/>
+			<stop  offset="0.9492" style="stop-color:#FEF4CB"/>
+			<stop  offset="1" style="stop-color:#FFFFFF"/>
+		</linearGradient>
+		<path class="st3" d="M167.9,198.9c-9.8-56.6,31.4-84.6,31.8-84.9l1.1,1.7c-0.4,0.3-40.5,27.6-31,82.9L167.9,198.9z"/>
+	</g>
+	<g>
+		<g>
+			<defs>
+				<path id="SVGID_14_" d="M218.9,152.5h69.3c0,0,17.2,7.1,0,17l-69.3-0.4C218.9,169.1,207.3,164.1,218.9,152.5z"/>
+			</defs>
+			<clipPath id="SVGID_5_">
+				<use xlink:href="#SVGID_14_"  style="overflow:visible;"/>
+			</clipPath>
+			<polygon style="clip-path:url(#SVGID_5_);" points="305.4,154.8 207.3,155.1 207.3,152.5 305.4,152.5 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);" points="305.4,154.8 207.3,155.1 207.3,155.1 305.4,154.8 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#000200;" points="305.4,154.8 207.3,155.1 207.3,155.1 305.4,154.8 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#000301;" points="305.4,154.9 207.3,155.1 207.3,155.1 305.4,154.8 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#000501;" points="305.4,154.9 207.3,155.2 207.3,155.1 305.4,154.9 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#000701;" points="305.4,154.9 207.3,155.2 207.3,155.2 305.4,154.9 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#000802;" points="305.4,154.9 207.3,155.2 207.3,155.2 305.4,154.9 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#000A02;" points="305.4,154.9 207.3,155.2 207.3,155.2 305.4,154.9 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#000B02;" points="305.4,155 207.3,155.2 207.3,155.2 305.4,154.9 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#000D03;" points="305.4,155 207.3,155.3 207.3,155.2 305.4,155 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#000F03;" points="305.4,155 207.3,155.3 207.3,155.3 305.4,155 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#001003;" points="305.4,155 207.3,155.3 207.3,155.3 305.4,155 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#001204;" points="305.4,155.1 207.3,155.3 207.3,155.3 305.4,155 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#001304;" points="305.4,155.1 207.3,155.4 207.3,155.3 305.4,155.1 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#001504;" points="305.4,155.1 207.3,155.4 207.3,155.4 305.4,155.1 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#001705;" points="305.4,155.1 207.3,155.4 207.3,155.4 305.4,155.1 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#001805;" points="305.4,155.2 207.3,155.4 207.3,155.4 305.4,155.1 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#001A05;" points="305.4,155.2 207.3,155.5 207.3,155.4 305.4,155.2 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#001B06;" points="305.4,155.2 207.3,155.5 207.3,155.5 305.4,155.2 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#001D06;" points="305.4,155.2 207.3,155.5 207.3,155.5 305.4,155.2 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#001E06;" points="305.4,155.3 207.3,155.5 207.3,155.5 305.4,155.2 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#002007;" points="305.4,155.3 207.3,155.6 207.3,155.5 305.4,155.3 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#002107;" points="305.4,155.3 207.3,155.6 207.3,155.6 305.4,155.3 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#002307;" points="305.4,155.3 207.3,155.6 207.3,155.6 305.4,155.3 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#002407;" points="305.4,155.4 207.3,155.6 207.3,155.6 305.4,155.3 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#002608;" points="305.4,155.4 207.3,155.7 207.3,155.6 305.4,155.4 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#002708;" points="305.4,155.4 207.3,155.7 207.3,155.7 305.4,155.4 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#002908;" points="305.4,155.4 207.3,155.7 207.3,155.7 305.4,155.4 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#002A09;" points="305.4,155.4 207.3,155.7 207.3,155.7 305.4,155.4 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#002C09;" points="305.4,155.5 207.3,155.7 207.3,155.7 305.4,155.4 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#002D09;" points="305.4,155.5 207.3,155.8 207.3,155.7 305.4,155.5 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#002F0A;" points="305.4,155.5 207.3,155.8 207.3,155.8 305.4,155.5 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00300A;" points="305.4,155.5 207.3,155.8 207.3,155.8 305.4,155.5 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00320A;" points="305.4,155.6 207.3,155.8 207.3,155.8 305.4,155.5 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00330B;" points="305.4,155.6 207.3,155.9 207.3,155.8 305.4,155.6 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00340B;" points="305.4,155.6 207.3,155.9 207.3,155.9 305.4,155.6 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00360B;" points="305.4,155.6 207.3,155.9 207.3,155.9 305.4,155.6 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00370B;" points="305.4,155.7 207.3,155.9 207.3,155.9 305.4,155.6 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00390C;" points="305.4,155.7 207.3,156 207.3,155.9 305.4,155.7 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#003A0C;" points="305.4,155.7 207.3,156 207.3,156 305.4,155.7 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#003B0C;" points="305.4,155.7 207.3,156 207.3,156 305.4,155.7 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#003D0D;" points="305.4,155.8 207.3,156 207.3,156 305.4,155.7 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#003E0D;" points="305.4,155.8 207.3,156.1 207.3,156 305.4,155.8 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00400D;" points="305.4,155.8 207.3,156.1 207.3,156.1 305.4,155.8 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00410D;" points="305.4,155.8 207.3,156.1 207.3,156.1 305.4,155.8 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00420E;" points="305.4,155.9 207.3,156.1 207.3,156.1 305.4,155.8 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00440E;" points="305.4,155.9 207.3,156.2 207.3,156.1 305.4,155.9 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00450E;" points="305.4,155.9 207.3,156.2 207.3,156.2 305.4,155.9 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00460E;" points="305.4,155.9 207.3,156.2 207.3,156.2 305.4,155.9 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00480F;" points="305.4,155.9 207.3,156.2 207.3,156.2 305.4,155.9 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00490F;" points="305.4,156 207.3,156.2 207.3,156.2 305.4,155.9 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#004A0F;" points="305.4,156 207.3,156.3 207.3,156.2 305.4,156 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#004C10;" points="305.4,156 207.3,156.3 207.3,156.3 305.4,156 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#004D10;" points="305.4,156 207.3,156.3 207.3,156.3 305.4,156 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#004E10;" points="305.4,156.1 207.3,156.3 207.3,156.3 305.4,156 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#004F10;" points="305.4,156.1 207.3,156.4 207.3,156.3 305.4,156.1 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#005111;" points="305.4,156.1 207.3,156.4 207.3,156.4 305.4,156.1 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#005211;" points="305.4,156.1 207.3,156.4 207.3,156.4 305.4,156.1 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#005311;" points="305.4,156.2 207.3,156.4 207.3,156.4 305.4,156.1 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#005511;" points="305.4,156.2 207.3,156.5 207.3,156.4 305.4,156.2 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#005612;" points="305.4,156.2 207.3,156.5 207.3,156.5 305.4,156.2 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#005712;" points="305.4,156.2 207.3,156.5 207.3,156.5 305.4,156.2 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#005812;" points="305.4,156.3 207.3,156.5 207.3,156.5 305.4,156.2 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#005912;" points="305.4,156.3 207.3,156.6 207.3,156.5 305.4,156.3 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#005B13;" points="305.4,156.3 207.3,156.6 207.3,156.6 305.4,156.3 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#005C13;" points="305.4,156.3 207.3,156.6 207.3,156.6 305.4,156.3 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#005D13;" points="305.4,156.3 207.3,156.6 207.3,156.6 305.4,156.3 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#005E13;" points="305.4,156.4 207.3,156.6 207.3,156.6 305.4,156.3 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#005F14;" points="305.4,156.4 207.3,156.7 207.3,156.6 305.4,156.4 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#006114;" points="305.4,156.4 207.3,156.7 207.3,156.7 305.4,156.4 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#006214;" points="305.4,156.4 207.3,156.7 207.3,156.7 305.4,156.4 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#006314;" points="305.4,156.5 207.3,156.7 207.3,156.7 305.4,156.4 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#006415;" points="305.4,156.5 207.3,156.8 207.3,156.7 305.4,156.5 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#006515;" points="305.4,156.5 207.3,156.8 207.3,156.8 305.4,156.5 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#006615;" points="305.4,156.5 207.3,156.8 207.3,156.8 305.4,156.5 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#006815;" points="305.4,156.6 207.3,156.8 207.3,156.8 305.4,156.5 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#006916;" points="305.4,156.6 207.3,156.9 207.3,156.8 305.4,156.6 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#006A16;" points="305.4,156.6 207.3,156.9 207.3,156.9 305.4,156.6 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#006B16;" points="305.4,156.6 207.3,156.9 207.3,156.9 305.4,156.6 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#006C16;" points="305.4,156.7 207.3,156.9 207.3,156.9 305.4,156.6 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#006D16;" points="305.4,156.7 207.3,157 207.3,156.9 305.4,156.7 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#006E17;" points="305.4,156.7 207.3,157 207.3,157 305.4,156.7 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#006F17;" points="305.4,156.7 207.3,157 207.3,157 305.4,156.7 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#007017;" points="305.4,156.8 207.3,157 207.3,157 305.4,156.7 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#007117;" points="305.4,156.8 207.3,157.1 207.3,157 305.4,156.8 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#007218;" points="305.4,156.8 207.3,157.1 207.3,157.1 305.4,156.8 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#007318;" points="305.4,156.8 207.3,157.1 207.3,157.1 305.4,156.8 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#007418;" points="305.4,156.8 207.3,157.1 207.3,157.1 305.4,156.8 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#007518;" points="305.4,156.9 207.3,157.1 207.3,157.1 305.4,156.8 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#007618;" points="305.4,156.9 207.3,157.2 207.3,157.1 305.4,156.9 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#007719;" points="305.4,156.9 207.3,157.2 207.3,157.2 305.4,156.9 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#007819;" points="305.4,156.9 207.3,157.2 207.3,157.2 305.4,156.9 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#007919;" points="305.4,157 207.3,157.2 207.3,157.2 305.4,156.9 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#007A19;" points="305.4,157 207.3,157.3 207.3,157.2 305.4,157 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#007B19;" points="305.4,157 207.3,157.3 207.3,157.3 305.4,157 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#007C1A;" points="305.4,157 207.3,157.3 207.3,157.3 305.4,157 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#007D1A;" points="305.4,157.1 207.3,157.3 207.3,157.3 305.4,157 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#007E1A;" points="305.4,157.1 207.3,157.4 207.3,157.3 305.4,157.1 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#007F1A;" points="305.4,157.1 207.3,157.4 207.3,157.4 305.4,157.1 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00801A;" points="305.4,157.1 207.3,157.4 207.3,157.4 305.4,157.1 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00811B;" points="305.4,157.2 207.3,157.4 207.3,157.4 305.4,157.1 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00821B;" points="305.4,157.2 207.3,157.5 207.3,157.4 305.4,157.2 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00831B;" points="305.4,157.2 207.3,157.5 207.3,157.5 305.4,157.2 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00841B;" points="305.4,157.2 207.3,157.5 207.3,157.5 305.4,157.2 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00851B;" points="305.4,157.3 207.3,157.5 207.3,157.5 305.4,157.2 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00851B;" points="305.4,157.3 207.3,157.5 207.3,157.5 305.4,157.3 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00861C;" points="305.4,157.3 207.3,157.6 207.3,157.5 305.4,157.3 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00871C;" points="305.4,157.3 207.3,157.6 207.3,157.6 305.4,157.3 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00881C;" points="305.4,157.3 207.3,157.6 207.3,157.6 305.4,157.3 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00891C;" points="305.4,157.4 207.3,157.6 207.3,157.6 305.4,157.3 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#008A1C;" points="305.4,157.4 207.3,157.7 207.3,157.6 305.4,157.4 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#008A1D;" points="305.4,157.4 207.3,157.7 207.3,157.7 305.4,157.4 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#008B1D;" points="305.4,157.4 207.3,157.7 207.3,157.7 305.4,157.4 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#008C1D;" points="305.4,157.5 207.3,157.7 207.3,157.7 305.4,157.4 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#008D1D;" points="305.4,157.5 207.3,157.8 207.3,157.7 305.4,157.5 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#008E1D;" points="305.4,157.5 207.3,157.8 207.3,157.8 305.4,157.5 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#008E1D;" points="305.4,157.5 207.3,157.8 207.3,157.8 305.4,157.5 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#008F1D;" points="305.4,157.6 207.3,157.8 207.3,157.8 305.4,157.5 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00901E;" points="305.4,157.6 207.3,157.9 207.3,157.8 305.4,157.6 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00911E;" points="305.4,157.6 207.3,157.9 207.3,157.9 305.4,157.6 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00911E;" points="305.4,157.6 207.3,157.9 207.3,157.9 305.4,157.6 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00921E;" points="305.4,157.7 207.3,157.9 207.3,157.9 305.4,157.6 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00931E;" points="305.4,157.7 207.3,158 207.3,157.9 305.4,157.7 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00931E;" points="305.4,157.7 207.3,158 207.3,158 305.4,157.7 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00941F;" points="305.4,157.7 207.3,158 207.3,158 305.4,157.7 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00951F;" points="305.4,157.7 207.3,158 207.3,158 305.4,157.7 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00951F;" points="305.4,157.8 207.3,158 207.3,158 305.4,157.7 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00961F;" points="305.4,157.8 207.3,158.1 207.3,158 305.4,157.8 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00971F;" points="305.4,157.8 207.3,158.1 207.3,158.1 305.4,157.8 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00971F;" points="305.4,157.8 207.3,158.1 207.3,158.1 305.4,157.8 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00981F;" points="305.4,157.9 207.3,158.1 207.3,158.1 305.4,157.8 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00991F;" points="305.4,157.9 207.3,158.2 207.3,158.1 305.4,157.9 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#009920;" points="305.4,157.9 207.3,158.2 207.3,158.2 305.4,157.9 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#009A20;" points="305.4,157.9 207.3,158.2 207.3,158.2 305.4,157.9 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#009A20;" points="305.4,158 207.3,158.2 207.3,158.2 305.4,157.9 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#009B20;" points="305.4,158 207.3,158.3 207.3,158.2 305.4,158 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#009B20;" points="305.4,158 207.3,158.3 207.3,158.3 305.4,158 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#009C20;" points="305.4,158 207.3,158.3 207.3,158.3 305.4,158 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#009D20;" points="305.4,158.1 207.3,158.3 207.3,158.3 305.4,158 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#009D20;" points="305.4,158.1 207.3,158.4 207.3,158.3 305.4,158.1 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#009E20;" points="305.4,158.1 207.3,158.4 207.3,158.4 305.4,158.1 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#009E21;" points="305.4,158.1 207.3,158.4 207.3,158.4 305.4,158.1 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#009E21;" points="305.4,158.2 207.3,158.4 207.3,158.4 305.4,158.1 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#009F21;" points="305.4,158.2 207.3,158.5 207.3,158.4 305.4,158.2 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#009F21;" points="305.4,158.2 207.3,158.5 207.3,158.5 305.4,158.2 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00A021;" points="305.4,158.2 207.3,158.5 207.3,158.5 305.4,158.2 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00A021;" points="305.4,158.2 207.3,158.5 207.3,158.5 305.4,158.2 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00A121;" points="305.4,158.3 207.3,158.5 207.3,158.5 305.4,158.2 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00A121;" points="305.4,158.3 207.3,158.6 207.3,158.5 305.4,158.3 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00A121;" points="305.4,158.3 207.3,158.6 207.3,158.6 305.4,158.3 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00A221;" points="305.4,158.3 207.3,158.6 207.3,158.6 305.4,158.3 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00A221;" points="305.4,158.4 207.3,158.6 207.3,158.6 305.4,158.3 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00A221;" points="305.4,158.4 207.3,158.7 207.3,158.6 305.4,158.4 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00A322;" points="305.4,158.4 207.3,158.7 207.3,158.7 305.4,158.4 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00A322;" points="305.4,158.4 207.3,158.7 207.3,158.7 305.4,158.4 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00A322;" points="305.4,158.5 207.3,158.7 207.3,158.7 305.4,158.4 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00A422;" points="305.4,158.5 207.3,158.8 207.3,158.7 305.4,158.5 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00A422;" points="305.4,158.5 207.3,158.8 207.3,158.8 305.4,158.5 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00A422;" points="305.4,158.5 207.3,158.8 207.3,158.8 305.4,158.5 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00A422;" points="305.4,158.6 207.3,158.8 207.3,158.8 305.4,158.5 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00A422;" points="305.4,158.6 207.3,158.9 207.3,158.8 305.4,158.6 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00A522;" points="305.4,158.6 207.3,158.9 207.3,158.9 305.4,158.6 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00A522;" points="305.4,158.6 207.3,158.9 207.3,158.9 305.4,158.6 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00A522;" points="305.4,158.7 207.3,158.9 207.3,158.9 305.4,158.6 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00A522;" points="305.4,158.7 207.3,158.9 207.3,158.9 305.4,158.7 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00A522;" points="305.4,158.7 207.3,159 207.3,158.9 305.4,158.7 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00A522;" points="305.4,158.7 207.3,159 207.3,159 305.4,158.7 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00A522;" points="305.4,158.8 207.3,159.1 207.3,159 305.4,158.7 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00A522;" points="305.4,158.8 207.3,159.1 207.3,159.1 305.4,158.8 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00A522;" points="305.4,158.9 207.3,159.2 207.3,159.1 305.4,158.8 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00A522;" points="305.4,158.9 207.3,159.2 207.3,159.2 305.4,158.9 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00A522;" points="305.4,159 207.3,159.3 207.3,159.2 305.4,158.9 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00A522;" points="305.4,159 207.3,159.3 207.3,159.3 305.4,159 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00A522;" points="305.4,159.1 207.3,159.4 207.3,159.3 305.4,159 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00A522;" points="305.4,159.1 207.3,159.4 207.3,159.4 305.4,159.1 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00A522;" points="305.4,159.2 207.3,159.4 207.3,159.4 305.4,159.1 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00A422;" points="305.4,159.2 207.3,159.5 207.3,159.4 305.4,159.2 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00A422;" points="305.4,159.3 207.3,159.5 207.3,159.5 305.4,159.2 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00A422;" points="305.4,159.3 207.3,159.6 207.3,159.5 305.4,159.3 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00A422;" points="305.4,159.4 207.3,159.6 207.3,159.6 305.4,159.3 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00A422;" points="305.4,159.4 207.3,159.7 207.3,159.6 305.4,159.4 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00A422;" points="305.4,159.5 207.3,159.7 207.3,159.7 305.4,159.4 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00A322;" points="305.4,159.5 207.3,159.8 207.3,159.7 305.4,159.5 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00A322;" points="305.4,159.6 207.3,159.8 207.3,159.8 305.4,159.5 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00A322;" points="305.4,159.6 207.3,159.9 207.3,159.8 305.4,159.6 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00A322;" points="305.4,159.6 207.3,159.9 207.3,159.9 305.4,159.6 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00A321;" points="305.4,159.7 207.3,160 207.3,159.9 305.4,159.6 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00A221;" points="305.4,159.7 207.3,160 207.3,160 305.4,159.7 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00A221;" points="305.4,159.8 207.3,160.1 207.3,160 305.4,159.7 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00A221;" points="305.4,159.8 207.3,160.1 207.3,160.1 305.4,159.8 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00A121;" points="305.4,159.9 207.3,160.2 207.3,160.1 305.4,159.8 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00A121;" points="305.4,159.9 207.3,160.2 207.3,160.2 305.4,159.9 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00A121;" points="305.4,160 207.3,160.3 207.3,160.2 305.4,159.9 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00A121;" points="305.4,160 207.3,160.3 207.3,160.3 305.4,160 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00A021;" points="305.4,160.1 207.3,160.4 207.3,160.3 305.4,160 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00A021;" points="305.4,160.1 207.3,160.4 207.3,160.4 305.4,160.1 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#009F21;" points="305.4,160.2 207.3,160.4 207.3,160.4 305.4,160.1 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#009F21;" points="305.4,160.2 207.3,160.5 207.3,160.4 305.4,160.2 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#009F21;" points="305.4,160.3 207.3,160.5 207.3,160.5 305.4,160.2 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#009E21;" points="305.4,160.3 207.3,160.6 207.3,160.5 305.4,160.3 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#009E21;" points="305.4,160.4 207.3,160.6 207.3,160.6 305.4,160.3 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#009D20;" points="305.4,160.4 207.3,160.7 207.3,160.6 305.4,160.4 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#009D20;" points="305.4,160.5 207.3,160.7 207.3,160.7 305.4,160.4 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#009D20;" points="305.4,160.5 207.3,160.8 207.3,160.7 305.4,160.5 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#009C20;" points="305.4,160.6 207.3,160.8 207.3,160.8 305.4,160.5 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#009C20;" points="305.4,160.6 207.3,160.9 207.3,160.8 305.4,160.6 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#009B20;" points="305.4,160.6 207.3,160.9 207.3,160.9 305.4,160.6 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#009B20;" points="305.4,160.7 207.3,161 207.3,160.9 305.4,160.6 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#009A20;" points="305.4,160.7 207.3,161 207.3,161 305.4,160.7 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#009A20;" points="305.4,160.8 207.3,161.1 207.3,161 305.4,160.7 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#009920;" points="305.4,160.8 207.3,161.1 207.3,161.1 305.4,160.8 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00991F;" points="305.4,160.9 207.3,161.2 207.3,161.1 305.4,160.8 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00981F;" points="305.4,160.9 207.3,161.2 207.3,161.2 305.4,160.9 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00971F;" points="305.4,161 207.3,161.3 207.3,161.2 305.4,160.9 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00971F;" points="305.4,161 207.3,161.3 207.3,161.3 305.4,161 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00961F;" points="305.4,161.1 207.3,161.3 207.3,161.3 305.4,161 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00961F;" points="305.4,161.1 207.3,161.4 207.3,161.3 305.4,161.1 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00951F;" points="305.4,161.2 207.3,161.4 207.3,161.4 305.4,161.1 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00941F;" points="305.4,161.2 207.3,161.5 207.3,161.4 305.4,161.2 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00941E;" points="305.4,161.3 207.3,161.5 207.3,161.5 305.4,161.2 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00931E;" points="305.4,161.3 207.3,161.6 207.3,161.5 305.4,161.3 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00921E;" points="305.4,161.4 207.3,161.6 207.3,161.6 305.4,161.3 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00921E;" points="305.4,161.4 207.3,161.7 207.3,161.6 305.4,161.4 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00911E;" points="305.4,161.5 207.3,161.7 207.3,161.7 305.4,161.4 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00901E;" points="305.4,161.5 207.3,161.8 207.3,161.7 305.4,161.5 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00901E;" points="305.4,161.5 207.3,161.8 207.3,161.8 305.4,161.5 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#008F1D;" points="305.4,161.6 207.3,161.9 207.3,161.8 305.4,161.5 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#008E1D;" points="305.4,161.6 207.3,161.9 207.3,161.9 305.4,161.6 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#008D1D;" points="305.4,161.7 207.3,162 207.3,161.9 305.4,161.6 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#008D1D;" points="305.4,161.7 207.3,162 207.3,162 305.4,161.7 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#008C1D;" points="305.4,161.8 207.3,162.1 207.3,162 305.4,161.7 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#008B1D;" points="305.4,161.8 207.3,162.1 207.3,162.1 305.4,161.8 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#008A1C;" points="305.4,161.9 207.3,162.2 207.3,162.1 305.4,161.8 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00891C;" points="305.4,161.9 207.3,162.2 207.3,162.2 305.4,161.9 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00891C;" points="305.4,162 207.3,162.3 207.3,162.2 305.4,161.9 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00881C;" points="305.4,162 207.3,162.3 207.3,162.3 305.4,162 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00871C;" points="305.4,162.1 207.3,162.3 207.3,162.3 305.4,162 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00861C;" points="305.4,162.1 207.3,162.4 207.3,162.3 305.4,162.1 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00851B;" points="305.4,162.2 207.3,162.4 207.3,162.4 305.4,162.1 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00841B;" points="305.4,162.2 207.3,162.5 207.3,162.4 305.4,162.2 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00831B;" points="305.4,162.3 207.3,162.5 207.3,162.5 305.4,162.2 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00831B;" points="305.4,162.3 207.3,162.6 207.3,162.5 305.4,162.3 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00821B;" points="305.4,162.4 207.3,162.6 207.3,162.6 305.4,162.3 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00811B;" points="305.4,162.4 207.3,162.7 207.3,162.6 305.4,162.4 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00801A;" points="305.4,162.5 207.3,162.7 207.3,162.7 305.4,162.4 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#007F1A;" points="305.4,162.5 207.3,162.8 207.3,162.7 305.4,162.5 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#007E1A;" points="305.4,162.5 207.3,162.8 207.3,162.8 305.4,162.5 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#007D1A;" points="305.4,162.6 207.3,162.9 207.3,162.8 305.4,162.5 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#007C1A;" points="305.4,162.6 207.3,162.9 207.3,162.9 305.4,162.6 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#007B19;" points="305.4,162.7 207.3,163 207.3,162.9 305.4,162.6 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#007A19;" points="305.4,162.7 207.3,163 207.3,163 305.4,162.7 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#007919;" points="305.4,162.8 207.3,163.1 207.3,163 305.4,162.7 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#007819;" points="305.4,162.8 207.3,163.1 207.3,163.1 305.4,162.8 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#007718;" points="305.4,162.9 207.3,163.2 207.3,163.1 305.4,162.8 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#007618;" points="305.4,162.9 207.3,163.2 207.3,163.2 305.4,162.9 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#007418;" points="305.4,163 207.3,163.2 207.3,163.2 305.4,162.9 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#007318;" points="305.4,163 207.3,163.3 207.3,163.2 305.4,163 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#007218;" points="305.4,163.1 207.3,163.3 207.3,163.3 305.4,163 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#007117;" points="305.4,163.1 207.3,163.4 207.3,163.3 305.4,163.1 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#007017;" points="305.4,163.2 207.3,163.4 207.3,163.4 305.4,163.1 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#006F17;" points="305.4,163.2 207.3,163.5 207.3,163.4 305.4,163.2 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#006E17;" points="305.4,163.3 207.3,163.5 207.3,163.5 305.4,163.2 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#006C16;" points="305.4,163.3 207.3,163.6 207.3,163.5 305.4,163.3 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#006B16;" points="305.4,163.4 207.3,163.6 207.3,163.6 305.4,163.3 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#006A16;" points="305.4,163.4 207.3,163.7 207.3,163.6 305.4,163.4 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#006916;" points="305.4,163.4 207.3,163.7 207.3,163.7 305.4,163.4 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#006815;" points="305.4,163.5 207.3,163.8 207.3,163.7 305.4,163.4 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#006615;" points="305.4,163.5 207.3,163.8 207.3,163.8 305.4,163.5 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#006515;" points="305.4,163.6 207.3,163.9 207.3,163.8 305.4,163.5 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#006415;" points="305.4,163.6 207.3,163.9 207.3,163.9 305.4,163.6 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#006314;" points="305.4,163.7 207.3,164 207.3,163.9 305.4,163.6 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#006114;" points="305.4,163.7 207.3,164 207.3,164 305.4,163.7 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#006014;" points="305.4,163.8 207.3,164.1 207.3,164 305.4,163.7 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#005F14;" points="305.4,163.8 207.3,164.1 207.3,164.1 305.4,163.8 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#005D13;" points="305.4,163.9 207.3,164.2 207.3,164.1 305.4,163.8 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#005C13;" points="305.4,163.9 207.3,164.2 207.3,164.2 305.4,163.9 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#005B13;" points="305.4,164 207.3,164.2 207.3,164.2 305.4,163.9 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#005912;" points="305.4,164 207.3,164.3 207.3,164.2 305.4,164 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#005812;" points="305.4,164.1 207.3,164.3 207.3,164.3 305.4,164 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#005712;" points="305.4,164.1 207.3,164.4 207.3,164.3 305.4,164.1 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#005512;" points="305.4,164.2 207.3,164.4 207.3,164.4 305.4,164.1 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#005411;" points="305.4,164.2 207.3,164.5 207.3,164.4 305.4,164.2 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#005211;" points="305.4,164.3 207.3,164.5 207.3,164.5 305.4,164.2 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#005111;" points="305.4,164.3 207.3,164.6 207.3,164.5 305.4,164.3 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#005010;" points="305.4,164.4 207.3,164.6 207.3,164.6 305.4,164.3 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#004E10;" points="305.4,164.4 207.3,164.7 207.3,164.6 305.4,164.4 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#004D10;" points="305.4,164.4 207.3,164.7 207.3,164.7 305.4,164.4 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#004B0F;" points="305.4,164.5 207.3,164.8 207.3,164.7 305.4,164.4 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#004A0F;" points="305.4,164.5 207.3,164.8 207.3,164.8 305.4,164.5 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00480F;" points="305.4,164.6 207.3,164.9 207.3,164.8 305.4,164.5 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00470F;" points="305.4,164.6 207.3,164.9 207.3,164.9 305.4,164.6 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00450E;" points="305.4,164.7 207.3,165 207.3,164.9 305.4,164.6 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00440E;" points="305.4,164.7 207.3,165 207.3,165 305.4,164.7 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00420E;" points="305.4,164.8 207.3,165.1 207.3,165 305.4,164.7 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00410D;" points="305.4,164.8 207.3,165.1 207.3,165.1 305.4,164.8 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#003F0D;" points="305.4,164.9 207.3,165.1 207.3,165.1 305.4,164.8 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#003D0D;" points="305.4,164.9 207.3,165.2 207.3,165.1 305.4,164.9 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#003C0C;" points="305.4,165 207.3,165.2 207.3,165.2 305.4,164.9 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#003A0C;" points="305.4,165 207.3,165.3 207.3,165.2 305.4,165 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00390C;" points="305.4,165.1 207.3,165.3 207.3,165.3 305.4,165 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00370B;" points="305.4,165.1 207.3,165.4 207.3,165.3 305.4,165.1 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00350B;" points="305.4,165.2 207.3,165.4 207.3,165.4 305.4,165.1 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00340B;" points="305.4,165.2 207.3,165.5 207.3,165.4 305.4,165.2 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00320A;" points="305.4,165.3 207.3,165.5 207.3,165.5 305.4,165.2 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#00300A;" points="305.4,165.3 207.3,165.6 207.3,165.5 305.4,165.3 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#002E0A;" points="305.4,165.3 207.3,165.6 207.3,165.6 305.4,165.3 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#002D09;" points="305.4,165.4 207.3,165.7 207.3,165.6 305.4,165.3 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#002B09;" points="305.4,165.4 207.3,165.7 207.3,165.7 305.4,165.4 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#002909;" points="305.4,165.5 207.3,165.8 207.3,165.7 305.4,165.4 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#002808;" points="305.4,165.5 207.3,165.8 207.3,165.8 305.4,165.5 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#002608;" points="305.4,165.6 207.3,165.9 207.3,165.8 305.4,165.5 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#002407;" points="305.4,165.6 207.3,165.9 207.3,165.9 305.4,165.6 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#002207;" points="305.4,165.7 207.3,166 207.3,165.9 305.4,165.6 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#002007;" points="305.4,165.7 207.3,166 207.3,166 305.4,165.7 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#001F06;" points="305.4,165.8 207.3,166.1 207.3,166 305.4,165.7 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#001D06;" points="305.4,165.8 207.3,166.1 207.3,166.1 305.4,165.8 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#001B06;" points="305.4,165.9 207.3,166.1 207.3,166.1 305.4,165.8 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#001905;" points="305.4,165.9 207.3,166.2 207.3,166.1 305.4,165.9 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#001705;" points="305.4,166 207.3,166.2 207.3,166.2 305.4,165.9 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#001504;" points="305.4,166 207.3,166.3 207.3,166.2 305.4,166 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#001404;" points="305.4,166.1 207.3,166.3 207.3,166.3 305.4,166 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#001204;" points="305.4,166.1 207.3,166.4 207.3,166.3 305.4,166.1 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#001003;" points="305.4,166.2 207.3,166.4 207.3,166.4 305.4,166.1 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#000E03;" points="305.4,166.2 207.3,166.5 207.3,166.4 305.4,166.2 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#000C02;" points="305.4,166.3 207.3,166.5 207.3,166.5 305.4,166.2 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#000A02;" points="305.4,166.3 207.3,166.6 207.3,166.5 305.4,166.3 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#000802;" points="305.4,166.3 207.3,166.6 207.3,166.6 305.4,166.3 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#000601;" points="305.4,166.4 207.3,166.7 207.3,166.6 305.4,166.3 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#000401;" points="305.4,166.4 207.3,166.7 207.3,166.7 305.4,166.4 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);fill:#000200;" points="305.4,166.5 207.3,166.8 207.3,166.7 305.4,166.4 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);" points="305.4,166.5 207.3,166.8 207.3,166.8 305.4,166.5 			"/>
+			<polygon style="clip-path:url(#SVGID_5_);" points="207.3,166.8 305.4,166.5 305.4,169.5 207.3,169.5 			"/>
+		</g>
+	</g>
+</g>
+</svg>

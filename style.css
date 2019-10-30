@@ -1,0 +1,123 @@
+body {
+  background-image: linear-gradient(#F90000, #B6D515);
+  background-attachment:fixed;
+  height:100%;
+  color: #4400ff;
+}
+
+#info-text {
+  padding-top: 60%;
+  padding-bottom: 25px;
+  font-size: 18px;
+  font-family: georgia;
+}
+
+.about {
+  text-align: center;
+}
+
+.Editorial {
+}
+
+.Design {
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.website {
+}
+
+.flexbox {
+  display: flex;
+  flex-direction: row;
+  text-align: left;
+  justify-content: center;
+}
+
+.support {
+  text-align: center;
+}
+
+
+body .circle {
+  position: relative;
+  left: 50%;
+  top: 350px;
+  transform-origin: center center;
+  border-radius: 1px;
+  background: none;
+  width: 1px;
+  height: 1px;
+  animation-name: spin;
+  animation-duration: 30s;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+}
+
+.icon:nth-child(1) {
+  left: -74px; top: 175px;
+}
+
+.icon:nth-child(2) {
+  left: -250px; top: 101px;
+}
+
+.icon:nth-child(3) {
+  left: -324px; top: -74px;
+}
+
+.icon:nth-child(4) {
+  left: -250px; top: -250px;
+}
+
+.icon:nth-child(5) {
+  left: -74px; top: -324px;
+}
+
+.icon:nth-child(6) {
+  left: 101px; top: -250px;
+}
+
+.icon:nth-child(7) {
+  left: 175px; top: -74px;
+}
+
+.icon:nth-child(8) {
+  left: 101px; top: 101px;
+}
+
+.icon {
+  transform-origin: center center;
+  position: absolute;
+  width: 150px;
+  height: 150px;
+  animation-name: cabin;
+  animation-duration: 30s;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+}
+
+body .circle:hover > .icon {   animation-play-state: paused; }
+
+body .circle:hover {
+  animation-play-state: paused;
+}
+
+@keyframes spin {
+    from {
+        transform:rotate(0deg);
+    }
+    to {
+        transform:rotate(360deg);
+    }
+}
+
+@keyframes cabin {
+  0% {
+		transform: rotate(0deg);
+	}
+
+	100% {
+		transform: rotate(-360deg);
+	}
+}
