@@ -1,16 +1,23 @@
+@font-face {
+	font-family: mono;
+	src: url('atributes/A2 Record Gothic Mono.otf');
+}
 
 body {
   background-image: linear-gradient(#F90000, #B6D515);
   background-attachment:fixed;
   height:100%;
-  color: #4400ff;
+  color: #FFFFFF;
 }
 
 #info-text {
-  padding-top: 60%;
-  padding-bottom: 25px;
+	width: 100%;
+	height: 350px;
+	position: absolute;
+	top: 850px;
   font-size: 18px;
-  font-family: georgia;
+  font-family: mono;
+	background: black;
 }
 
 .about {
@@ -21,7 +28,7 @@ body {
 }
 
 .Design {
-  padding-left: 50px;
+	padding-left: 50px;
   padding-right: 50px;
 }
 
