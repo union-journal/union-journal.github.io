@@ -165,15 +165,30 @@ and (min-device-width: 2560px) {
 	  color: #FFFFFF;
 	}
 
+	#black-box {
+		width: 100%;
+		border-left: 10px;
+		border-right: 10px;
+		height: 500px;
+		position: absolute;
+		top: 2500px;
+		left: 0%;
+		background: black;
+	}
+
 	#info-text {
 		width: 100%;
-		height: 350px;
+		height: 500px;
 		position: absolute;
-		top: 1500px;
-		left: 0%;
-	  font-size: 18px;
+		top: 0px;
+		left 0px;
+		z-index: 999;
+	  font-size: 32px;
 	  font-family: mono;
-		background: black;
+		padding-left: 50px;
+		background-image: linear-gradient(#F90000, #B6D515);
+		-webkit-text-fill-color: transparent;
+   	-webkit-background-clip: text;
 	}
 
 	.about {
@@ -212,10 +227,9 @@ and (min-device-width: 2560px) {
 	  background: none;
 	  width: 1px;
 	  height: 1px;
-	  animation-name: spin;
-	  animation-duration: 30s;
-	  animation-iteration-count: infinite;
-	  animation-timing-function: linear;
+	  animation: move 13s steps(10000) infinite alternate ;
+		/*, */
+		/* spin 30s infinite linear */
 	}
 
 	.icon:nth-child(1) {
@@ -284,6 +298,11 @@ and (min-device-width: 2560px) {
 		100% {
 			transform: rotate(-360deg);
 		}
+	}
+
+	@keyframes move {
+	  from { top: 350px; left: 5%; }
+	  to   { top: 350px; left: 62%; }
 	}
 
 }
