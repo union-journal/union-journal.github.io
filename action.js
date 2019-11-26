@@ -58,7 +58,7 @@ $(document).ready(function() {
   $(".icon:nth-child(5)").hover(
     function() {
       $("body").css("background-image", "linear-gradient(#001CBF, #FFFFFF)");
-      $("info-text").css("background-image", "linear-gradient(#001CBF, #FFFFFF)");
+      $("#info-text").css("background-image", "linear-gradient(#001CBF, #FFFFFF)");
     },
     function() {
       $("body").css("background-image", "linear-gradient(#F90000, #B6D515)");

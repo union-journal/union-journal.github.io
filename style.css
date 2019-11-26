@@ -75,10 +75,11 @@ and (max-device-width: 2559px) {
 	  background: none;
 	  width: 1px;
 	  height: 1px;
-	  animation-name: spin;
+	  /* animation-name: spin;
 	  animation-duration: 30s;
 	  animation-iteration-count: infinite;
-	  animation-timing-function: linear;
+	  animation-timing-function: linear; */
+		animation: move 10s steps(10000) infinite alternate, spin 30s infinite linear;
 	}
 
 	.icon:nth-child(1) {
@@ -147,6 +148,11 @@ and (max-device-width: 2559px) {
 		100% {
 			transform: rotate(-360deg);
 		}
+	}
+
+	@keyframes move {
+	  from { top: 350px; left: 25%; }
+	  to   { top: 350px; left: 75%; }
 	}
 }
 
