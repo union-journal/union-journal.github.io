@@ -185,7 +185,6 @@ and (min-device-width: 2560px) {
 		z-index: 999;
 	  font-size: 32px;
 	  font-family: mono;
-		padding-left: 50px;
 		background-image: linear-gradient(#F90000, #B6D515);
 		-webkit-text-fill-color: transparent;
    	-webkit-background-clip: text;
@@ -219,48 +218,56 @@ and (min-device-width: 2560px) {
 
 
 	body .circle {
-	  position: relative;
+	  position: absolute;
 	  left: 50%;
-	  top: 350px;
-	  transform-origin: center center;
-	  border-radius: 1px;
+	  top: 500px;
+	  transform-origin: 50% 50%;
+	  /* border-radius: 1px; */
 	  background: none;
-	  width: 1px;
-	  height: 1px;
-	  animation: move 13s steps(10000) infinite alternate ;
-		/*, */
+	  width: 10px;
+	  height: 10px;
+	  /* animation: spin 30s infinite linear  ; */
+		/* move 13s steps(10000) infinite alternate */
 		/* spin 30s infinite linear */
 	}
 
 	.icon:nth-child(1) {
+		position: absolute;
 	  left: 400px; top: -100px;
 	}
 
 	.icon:nth-child(2) {
+		position: absolute;
 	  left: 753px; top: 46px;
 	}
 
 	.icon:nth-child(3) {
+		position: absolute;
 	  left: 900px; top: 400px;
 	}
 
 	.icon:nth-child(4) {
+		position: absolute;
 	  left: 753px; top: 753px;
 	}
 
 	.icon:nth-child(5) {
+		position: absolute;
 	  left: 400px; top: 900px;
 	}
 
 	.icon:nth-child(6) {
+		position: absolute;
 	  left: 46px; top: 753px;
 	}
 
 	.icon:nth-child(7) {
+		position: absolute;
 	  left: -100px; top: 400px;
 	}
 
 	.icon:nth-child(8) {
+		position: absolute;
 	  left: 46px; top: 46px;
 	}
 
