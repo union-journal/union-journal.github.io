@@ -107,6 +107,7 @@ and (min-device-width: 2560px) {
 	  background-attachment:fixed;
 	  height:100%;
 	  color: #FFFFFF;
+		overflow-y: hidden;
 	}
 
 	body .circle {
