@@ -19,10 +19,10 @@ and (max-device-width: 2559px) {
 	  background: none;
 	  width: 1px;
 	  height: 1px;
-	  /* animation-name: spin;
+	  animation-name: spin;
 	  animation-duration: 30s;
 	  animation-iteration-count: infinite;
-	  animation-timing-function: linear; */
+	  animation-timing-function: linear;
 		animation: move 10s steps(10000) infinite alternate, spin 30s infinite linear;
 	}
 
@@ -111,64 +111,69 @@ and (min-device-width: 2560px) {
 	}
 
 	body .circle {
+		/* background-color: black; */
 	  position: absolute;
 	  left: 50%;
-	  top: 500px;
+	  top: 1000px;
 	  transform-origin: 50% 50%;
+		-webkit-transform-origin: 50% 50%;
+		-moz-transform-origin: 50% 50%;
+		-o-transform-origin: 50% 50%;
 	  /* border-radius: 1px; */
 	  background: none;
 	  width: 10px;
 	  height: 10px;
-	  /* animation: spin 30s infinite linear  ; */
-		/* move 13s steps(10000) infinite alternate */
-		/* spin 30s infinite linear */
+		animation: move 10s steps(10000) infinite alternate, spin 30s infinite linear;
 	}
 
 	.icon:nth-child(1) {
 		position: absolute;
-	  left: 400px; top: -100px;
+		/* left:50%;
+  	transform: translateX(-50%);
+  	-webkit-transform: translateX(-50%); */
+	  left: 600px; top: -250px;
 	}
 
 	.icon:nth-child(2) {
 		position: absolute;
-	  left: 753px; top: 46px;
+	  left: 400px; top: 300px;
 	}
 
 	.icon:nth-child(3) {
 		position: absolute;
-	  left: 900px; top: 400px;
+	  left: -150px; top: 600px;
 	}
 
 	.icon:nth-child(4) {
 		position: absolute;
-	  left: 753px; top: 753px;
+	  left: -600px; top: 350px;
 	}
 
 	.icon:nth-child(5) {
 		position: absolute;
-	  left: 400px; top: 900px;
+	  left: -950px; top: -150px;
 	}
 
 	.icon:nth-child(6) {
 		position: absolute;
-	  left: 46px; top: 753px;
+	  left: -650px; top: -550px;
 	}
 
 	.icon:nth-child(7) {
 		position: absolute;
-	  left: -100px; top: 400px;
+	  left: -150px; top: -800px;
 	}
 
 	.icon:nth-child(8) {
 		position: absolute;
-	  left: 46px; top: 46px;
+	  left: 450px; top: -600px;
 	}
 
 	.icon {
-	  transform-origin: center center;
+	  /* transform-origin: center center; */
 	  position: absolute;
-	  width: 400px;
-	  height: 400px;
+	  width: 375px;
+	  height: 375px;
 	  animation-name: cabin;
 	  animation-duration: 30s;
 	  animation-iteration-count: infinite;
@@ -201,8 +206,8 @@ and (min-device-width: 2560px) {
 	}
 
 	@keyframes move {
-	  from { top: 350px; left: 5%; }
-	  to   { top: 350px; left: 62%; }
+	  from { top: 1000px; left: 25%; }
+	  to   { top: 1000px; left: 62%; }
 	}
 
 }
