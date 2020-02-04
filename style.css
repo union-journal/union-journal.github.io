@@ -23,7 +23,7 @@ and (max-device-width: 2559px) {
 	  animation-duration: 30s;
 	  animation-iteration-count: infinite;
 	  animation-timing-function: linear;
-		animation: move 10s steps(1000000) infinite alternate,spin 30s infinite linear;
+		animation: move 10s steps(1000000) infinite alternate, spin 30s infinite linear;
 	}
 
 	.icon:nth-child(1) {
@@ -123,7 +123,7 @@ and (min-device-width: 2560px) {
 	  background: none;
 	  width: 10px;
 	  height: 10px;
-		animation:  spin 30s infinite linear;
+		animation: move 10s steps(1000000) infinite alternate, spin 30s infinite linear;
 	}
 
 	.icon:nth-child(1) {
@@ -174,7 +174,7 @@ and (min-device-width: 2560px) {
 	  position: absolute;
 	  width: 375px;
 	  height: 375px;
-	  animation-name: cabin 30s infinite linear, move 10s steps(10000) infinite alternate,;
+	  animation-name: cabin 30s infinite linear;
 	}
 
 	body .circle:hover > .icon {   animation-play-state: paused; }
