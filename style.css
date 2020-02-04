@@ -23,7 +23,7 @@ and (max-device-width: 2559px) {
 	  animation-duration: 30s;
 	  animation-iteration-count: infinite;
 	  animation-timing-function: linear;
-		animation: move 10s steps(10000) infinite alternate, spin 30s infinite linear;
+		animation: spin 30s infinite linear;
 	}
 
 	.icon:nth-child(1) {
